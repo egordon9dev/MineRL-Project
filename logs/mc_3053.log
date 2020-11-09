@@ -1,0 +1,190 @@
+[10:50:47] [EnvServerSocketHandler/INFO]: [STDOUT]: Received from localhost:<MissionInit xmlns="http://ProjectMalmo.microsoft.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SchemaVersion="" PlatformVersion="0.37.0">
+                                <Mission>
+    <About>
+        <Summary>MineRLTreechopVectorObf-v0</Summary>
+    </About>
+
+    <ModSettings>
+         <MsPerTick>50</MsPerTick>
+          <!--<PrioritiseOffscreenRendering>true</PrioritiseOffscreenRendering>-->
+    </ModSettings>
+
+
+  <ServerSection>
+
+    <ServerInitialConditions>
+      <Time>
+        <!--<StartTime>0</StartTime>-->
+        <AllowPassageOfTime>false</AllowPassageOfTime>
+      </Time>
+            
+      <AllowSpawning>true</AllowSpawning>
+    </ServerInitialConditions>
+
+    <ServerHandlers>
+      <DefaultWorldGenerator forceReset="true" generatorOptions="{&quot;coordinateScale&quot;:684.412,&quot;heightScale&quot;:684.412,&quot;lowerLimitScale&quot;:512.0,&quot;upperLimitScale&quot;:512.0,&quot;depthNoiseScaleX&quot;:200.0,&quot;depthNoiseScaleZ&quot;:200.0,&quot;depthNoiseScaleExponent&quot;:0.5,&q
+[10:50:47] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[10:50:47] [EnvServerSocketHandler/INFO]: [STDOUT]: REPLYING WITH: MALMOOK
+[10:50:47] [Client thread/INFO]: [STDOUT]: Mission received: MineRLTreechopVectorObf-v0
+[10:50:47] [Client thread/INFO]: [STDOUT]: CLIENT request state: CREATING_HANDLERS
+[10:50:47] [Client thread/INFO]: [STDOUT]: CLIENT enter state: CREATING_HANDLERS
+[10:50:47] [Client thread/INFO]: [STDOUT]: Starting command server.
+[10:50:47] [Thread-10/INFO]: [STDOUT]: INFO: ->com(0) Listening for messages on port 10339
+[10:50:48] [Client thread/INFO]: [STDOUT]: CLIENT request state: EVALUATING_WORLD_REQUIREMENTS
+[10:50:48] [Client thread/INFO]: [STDOUT]: CLIENT enter state: EVALUATING_WORLD_REQUIREMENTS
+[10:50:48] [Client thread/INFO]: [STDOUT]: CLIENT request state: CREATING_NEW_WORLD
+[10:50:48] [Client thread/INFO]: [STDOUT]: CLIENT enter state: CREATING_NEW_WORLD
+[10:50:48] [Server thread/INFO]: Starting integrated minecraft server version 1.11.2
+[10:50:48] [Server thread/INFO]: Generating keypair
+[10:50:48] [Server thread/INFO]: Injecting existing block and item data into this server instance
+[10:50:48] [Server thread/INFO]: Applying holder lookups
+[10:50:48] [Server thread/INFO]: Holder lookups applied
+[10:50:49] [Server thread/INFO]: Loading dimension 0 (TEMP_0_ebe7e31d-00fb-4768-bae8-e68c3b98d85b) (net.minecraft.server.integrated.IntegratedServer@3cc5d213)
+[10:50:49] [Server thread/INFO]: Loading dimension 1 (TEMP_0_ebe7e31d-00fb-4768-bae8-e68c3b98d85b) (net.minecraft.server.integrated.IntegratedServer@3cc5d213)
+[10:50:49] [Server thread/INFO]: Loading dimension -1 (TEMP_0_ebe7e31d-00fb-4768-bae8-e68c3b98d85b) (net.minecraft.server.integrated.IntegratedServer@3cc5d213)
+[10:50:49] [Server thread/INFO]: Preparing start region for level 0
+[10:50:50] [Server thread/INFO]: Preparing spawn area: 14%
+[10:50:51] [Server thread/INFO]: Preparing spawn area: 32%
+[10:50:52] [Server thread/INFO]: Preparing spawn area: 51%
+[10:50:53] [Server thread/INFO]: Preparing spawn area: 68%
+[10:50:54] [Server thread/INFO]: Preparing spawn area: 89%
+[10:50:55] [Server thread/INFO]: Changing view distance to 4, from 10
+[10:50:55] [Netty Local Client IO #0/INFO]: [STDOUT]: Transformed Name: net.minecraft.client.entity.EntityOtherPlayerMP
+[10:50:55] [Netty Local Client IO #0/INFO]: [STDOUT]: MALMO: Attempting to transform MinecraftServer
+[10:50:55] [Netty Local Client IO #0/INFO]: [STDOUT]: MALMO: Found EntityOtherPlayerMP, attempting to transform it
+[10:50:55] [Server thread/INFO]: [STDOUT]: SERVER request state: WAITING_FOR_MOD_READY
+[10:50:55] [Server thread/INFO]: [STDOUT]: CLIENT request state: WAITING_FOR_SERVER_READY
+[10:50:55] [Server thread/INFO]: [STDOUT]: SERVER enter state: WAITING_FOR_MOD_READY
+[10:50:55] [Client thread/INFO]: [STDOUT]: CLIENT enter state: WAITING_FOR_SERVER_READY
+[10:50:55] [Netty Local Client IO #0/INFO]: Server protocol version 2
+[10:50:55] [Netty Server IO #1/INFO]: Client protocol version 2
+[10:50:55] [Netty Server IO #1/INFO]: Client attempting to join with 5 mods : minecraft@1.11.2,FML@8.0.99.99,malmomod@0.37.0,forge@13.20.0.2228,mcp@9.19
+[10:50:55] [Server thread/INFO]: [STDOUT]: SERVER request state: DORMANT
+[10:50:55] [Server thread/INFO]: [STDOUT]: SERVER enter state: DORMANT
+[10:50:55] [Server thread/INFO]: [STDOUT]: INCOMING MISSION: Received MissionInit directly through ServerStateMachine constructor.
+[10:50:55] [Server thread/INFO]: [STDOUT]: Mission received: MineRLTreechopVectorObf-v0
+[10:50:55] [Server thread/INFO]: Received mission: §9MineRLTreechopVectorObf-v0
+[10:50:55] [Server thread/INFO]: Source: §alocalhost
+[10:50:55] [Netty Local Client IO #0/INFO]: [Netty Local Client IO #0] Client side modded connection established
+[10:50:55] [Server thread/INFO]: [STDOUT]: SERVER request state: BUILDING_WORLD
+[10:50:55] [Server thread/INFO]: [STDOUT]: SERVER enter state: BUILDING_WORLD
+[10:50:55] [Server thread/INFO]: [STDOUT]: SERVER request state: WAITING_FOR_AGENTS_TO_ASSEMBLE
+[10:50:55] [Server thread/INFO]: [Server thread] Server side modded connection established
+[10:50:55] [Server thread/INFO]: MineRLAgent[local:E:e2df5ec1] logged in with entity id 172 at (239.5, 76.0, 244.5)
+[10:50:55] [Server thread/INFO]: MineRLAgent joined the game
+[10:50:55] [Server thread/INFO]: [STDOUT]: SERVER enter state: WAITING_FOR_AGENTS_TO_ASSEMBLE
+[10:50:55] [Server thread/INFO]: [STDOUT]: Experiment requires: 
+[10:50:55] [Server thread/INFO]: [STDOUT]: >>>> MineRLAgent
+[10:50:56] [Client thread/INFO]: [STDOUT]: ***Telling server we are ready - MineRLAgent
+[10:50:56] [Client thread/INFO]: [STDOUT]: CLIENT request state: RUNNING
+[10:50:56] [Client thread/INFO]: [STDOUT]: CLIENT enter state: RUNNING
+[10:50:56] [Server thread/INFO]: [STDOUT]: SERVER request state: RUNNING
+[10:50:56] [Server thread/INFO]: [STDOUT]: SERVER enter state: RUNNING
+[10:50:56] [Client thread/INFO]: [STDOUT]: Resized the window
+2020-11-09 10:50:56.585 java[38502:2531170] *** Terminating app due to uncaught exception 'NSInternalInconsistencyException', reason: 'NSWindow drag regions should only be invalidated on the Main Thread!'
+*** First throw call stack:
+(
+	0   CoreFoundation                      0x00007fff32964b57 __exceptionPreprocess + 250
+	1   libobjc.A.dylib                     0x00007fff6b7b05bf objc_exception_throw + 48
+	2   CoreFoundation                      0x00007fff3298d34c -[NSException raise] + 9
+	3   AppKit                              0x00007fff2fb875ec -[NSWindow(NSWindow_Theme) _postWindowNeedsToResetDragMarginsUnlessPostingDisabled] + 310
+	4   AppKit                              0x00007fff2fbb1cee -[NSThemeFrame setStyleMask:] + 137
+	5   AppKit                              0x00007fff2fbb1b3c __25-[NSWindow setStyleMask:]_block_invoke + 1908
+	6   AppKit                              0x00007fff2fbb136e NSPerformVisuallyAtomicChange + 132
+	7   AppKit                              0x00007fff2fbb1279 -[NSWindow setStyleMask:] + 184
+	8   liblwjgl.dylib                      0x000000012043fee2 Java_org_lwjgl_opengl_MacOSXDisplay_nSetResizable + 82
+	9   ???                                 0x0000000108fae407 0x0 + 4445627399
+)
+libc++abi.dylib: terminating with uncaught exception of type NSException
+:runClient FAILED
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':runClient'.
+> Process 'command '/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/bin/java'' finished with non-zero exit value 134
+
+* Try:
+Run with --info or --debug option to get more log output.
+
+* Exception is:
+org.gradle.api.tasks.TaskExecutionException: Execution failed for task ':runClient'.
+	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.executeActions(ExecuteActionsTaskExecuter.java:69)
+	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.execute(ExecuteActionsTaskExecuter.java:46)
+	at org.gradle.api.internal.tasks.execution.PostExecutionAnalysisTaskExecuter.execute(PostExecutionAnalysisTaskExecuter.java:35)
+	at org.gradle.api.internal.tasks.execution.SkipUpToDateTaskExecuter.execute(SkipUpToDateTaskExecuter.java:66)
+	at org.gradle.api.internal.tasks.execution.ValidatingTaskExecuter.execute(ValidatingTaskExecuter.java:58)
+	at org.gradle.api.internal.tasks.execution.SkipEmptySourceFilesTaskExecuter.execute(SkipEmptySourceFilesTaskExecuter.java:52)
+	at org.gradle.api.internal.tasks.execution.SkipTaskWithNoActionsExecuter.execute(SkipTaskWithNoActionsExecuter.java:52)
+	at org.gradle.api.internal.tasks.execution.SkipOnlyIfTaskExecuter.execute(SkipOnlyIfTaskExecuter.java:53)
+	at org.gradle.api.internal.tasks.execution.ExecuteAtMostOnceTaskExecuter.execute(ExecuteAtMostOnceTaskExecuter.java:43)
+	at org.gradle.execution.taskgraph.DefaultTaskGraphExecuter$EventFiringTaskWorker.execute(DefaultTaskGraphExecuter.java:203)
+	at org.gradle.execution.taskgraph.DefaultTaskGraphExecuter$EventFiringTaskWorker.execute(DefaultTaskGraphExecuter.java:185)
+	at org.gradle.execution.taskgraph.AbstractTaskPlanExecutor$TaskExecutorWorker.processTask(AbstractTaskPlanExecutor.java:66)
+	at org.gradle.execution.taskgraph.AbstractTaskPlanExecutor$TaskExecutorWorker.run(AbstractTaskPlanExecutor.java:50)
+	at org.gradle.execution.taskgraph.DefaultTaskPlanExecutor.process(DefaultTaskPlanExecutor.java:25)
+	at org.gradle.execution.taskgraph.DefaultTaskGraphExecuter.execute(DefaultTaskGraphExecuter.java:110)
+	at org.gradle.execution.SelectedTaskExecutionAction.execute(SelectedTaskExecutionAction.java:37)
+	at org.gradle.execution.DefaultBuildExecuter.execute(DefaultBuildExecuter.java:37)
+	at org.gradle.execution.DefaultBuildExecuter.access$000(DefaultBuildExecuter.java:23)
+	at org.gradle.execution.DefaultBuildExecuter$1.proceed(DefaultBuildExecuter.java:43)
+	at org.gradle.execution.DryRunBuildExecutionAction.execute(DryRunBuildExecutionAction.java:32)
+	at org.gradle.execution.DefaultBuildExecuter.execute(DefaultBuildExecuter.java:37)
+	at org.gradle.execution.DefaultBuildExecuter.execute(DefaultBuildExecuter.java:30)
+	at org.gradle.initialization.DefaultGradleLauncher$4.run(DefaultGradleLauncher.java:153)
+	at org.gradle.internal.Factories$1.create(Factories.java:22)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:91)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:53)
+	at org.gradle.initialization.DefaultGradleLauncher.doBuildStages(DefaultGradleLauncher.java:150)
+	at org.gradle.initialization.DefaultGradleLauncher.access$200(DefaultGradleLauncher.java:32)
+	at org.gradle.initialization.DefaultGradleLauncher$1.create(DefaultGradleLauncher.java:98)
+	at org.gradle.initialization.DefaultGradleLauncher$1.create(DefaultGradleLauncher.java:92)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:91)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:63)
+	at org.gradle.initialization.DefaultGradleLauncher.doBuild(DefaultGradleLauncher.java:92)
+	at org.gradle.initialization.DefaultGradleLauncher.run(DefaultGradleLauncher.java:83)
+	at org.gradle.launcher.exec.InProcessBuildActionExecuter$DefaultBuildController.run(InProcessBuildActionExecuter.java:99)
+	at org.gradle.tooling.internal.provider.ExecuteBuildActionRunner.run(ExecuteBuildActionRunner.java:28)
+	at org.gradle.launcher.exec.ChainingBuildActionRunner.run(ChainingBuildActionRunner.java:35)
+	at org.gradle.launcher.exec.InProcessBuildActionExecuter.execute(InProcessBuildActionExecuter.java:48)
+	at org.gradle.launcher.exec.InProcessBuildActionExecuter.execute(InProcessBuildActionExecuter.java:30)
+	at org.gradle.launcher.exec.ContinuousBuildActionExecuter.execute(ContinuousBuildActionExecuter.java:81)
+	at org.gradle.launcher.exec.ContinuousBuildActionExecuter.execute(ContinuousBuildActionExecuter.java:46)
+	at org.gradle.launcher.exec.DaemonUsageSuggestingBuildActionExecuter.execute(DaemonUsageSuggestingBuildActionExecuter.java:51)
+	at org.gradle.launcher.exec.DaemonUsageSuggestingBuildActionExecuter.execute(DaemonUsageSuggestingBuildActionExecuter.java:28)
+	at org.gradle.launcher.cli.RunBuildAction.run(RunBuildAction.java:43)
+	at org.gradle.internal.Actions$RunnableActionAdapter.execute(Actions.java:173)
+	at org.gradle.launcher.cli.CommandLineActionFactory$ParseAndBuildAction.execute(CommandLineActionFactory.java:239)
+	at org.gradle.launcher.cli.CommandLineActionFactory$ParseAndBuildAction.execute(CommandLineActionFactory.java:212)
+	at org.gradle.launcher.cli.JavaRuntimeValidationAction.execute(JavaRuntimeValidationAction.java:35)
+	at org.gradle.launcher.cli.JavaRuntimeValidationAction.execute(JavaRuntimeValidationAction.java:24)
+	at org.gradle.launcher.cli.ExceptionReportingAction.execute(ExceptionReportingAction.java:33)
+	at org.gradle.launcher.cli.ExceptionReportingAction.execute(ExceptionReportingAction.java:22)
+	at org.gradle.launcher.cli.CommandLineActionFactory$WithLogging.execute(CommandLineActionFactory.java:205)
+	at org.gradle.launcher.cli.CommandLineActionFactory$WithLogging.execute(CommandLineActionFactory.java:169)
+	at org.gradle.launcher.Main.doAction(Main.java:33)
+	at org.gradle.launcher.bootstrap.EntryPoint.run(EntryPoint.java:45)
+	at org.gradle.launcher.bootstrap.ProcessBootstrap.runNoExit(ProcessBootstrap.java:55)
+	at org.gradle.launcher.bootstrap.ProcessBootstrap.run(ProcessBootstrap.java:36)
+	at org.gradle.launcher.GradleMain.main(GradleMain.java:23)
+	at org.gradle.wrapper.BootstrapMainStarter.start(BootstrapMainStarter.java:30)
+	at org.gradle.wrapper.WrapperExecutor.execute(WrapperExecutor.java:127)
+	at org.gradle.wrapper.GradleWrapperMain.main(GradleWrapperMain.java:61)
+Caused by: org.gradle.process.internal.ExecException: Process 'command '/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/bin/java'' finished with non-zero exit value 134
+	at org.gradle.process.internal.DefaultExecHandle$ExecResultImpl.assertNormalExitValue(DefaultExecHandle.java:367)
+	at org.gradle.process.internal.DefaultJavaExecAction.execute(DefaultJavaExecAction.java:31)
+	at org.gradle.api.tasks.JavaExec.exec(JavaExec.java:74)
+	at org.gradle.internal.reflect.JavaMethod.invoke(JavaMethod.java:75)
+	at org.gradle.api.internal.project.taskfactory.AnnotationProcessingTaskFactory$StandardTaskAction.doExecute(AnnotationProcessingTaskFactory.java:228)
+	at org.gradle.api.internal.project.taskfactory.AnnotationProcessingTaskFactory$StandardTaskAction.execute(AnnotationProcessingTaskFactory.java:221)
+	at org.gradle.api.internal.project.taskfactory.AnnotationProcessingTaskFactory$StandardTaskAction.execute(AnnotationProcessingTaskFactory.java:210)
+	at org.gradle.api.internal.AbstractTask$TaskActionWrapper.execute(AbstractTask.java:621)
+	at org.gradle.api.internal.AbstractTask$TaskActionWrapper.execute(AbstractTask.java:604)
+	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.executeAction(ExecuteActionsTaskExecuter.java:80)
+	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.executeActions(ExecuteActionsTaskExecuter.java:61)
+	... 60 more
+
+
+BUILD FAILED
+
+Total time: 1 mins 11.959 secs
