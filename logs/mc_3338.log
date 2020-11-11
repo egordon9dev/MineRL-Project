@@ -1,0 +1,128 @@
+[10:41:00] [EnvServerSocketHandler/INFO]: [STDOUT]: Received from localhost:<MissionInit xmlns="http://ProjectMalmo.microsoft.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SchemaVersion="" PlatformVersion="0.37.0">
+                                <Mission>
+    <About>
+        <Summary>MineRLTreechop-v0</Summary>
+    </About>
+
+    <ModSettings>
+         <MsPerTick>50</MsPerTick>
+          <!--<PrioritiseOffscreenRendering>true</PrioritiseOffscreenRendering>-->
+    </ModSettings>
+
+
+  <ServerSection>
+
+    <ServerInitialConditions>
+      <Time>
+        <!--<StartTime>0</StartTime>-->
+        <AllowPassageOfTime>false</AllowPassageOfTime>
+      </Time>
+            
+      <AllowSpawning>true</AllowSpawning>
+    </ServerInitialConditions>
+
+    <ServerHandlers>
+      <DefaultWorldGenerator forceReset="true" generatorOptions="{&quot;coordinateScale&quot;:684.412,&quot;heightScale&quot;:684.412,&quot;lowerLimitScale&quot;:512.0,&quot;upperLimitScale&quot;:512.0,&quot;depthNoiseScaleX&quot;:200.0,&quot;depthNoiseScaleZ&quot;:200.0,&quot;depthNoiseScaleExponent&quot;:0.5,&quot;mainN
+[10:41:00] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[10:41:00] [EnvServerSocketHandler/INFO]: [STDOUT]: REPLYING WITH: MALMOOK
+[10:41:00] [Client thread/INFO]: [STDOUT]: Mission received: MineRLTreechop-v0
+[10:41:00] [Client thread/INFO]: [STDOUT]: CLIENT request state: CREATING_HANDLERS
+[10:41:00] [Client thread/INFO]: [STDOUT]: CLIENT enter state: CREATING_HANDLERS
+[10:41:00] [Client thread/INFO]: [STDOUT]: Starting command server.
+[10:41:00] [Thread-10/INFO]: [STDOUT]: INFO: ->com(0) Listening for messages on port 10622
+[10:41:01] [Client thread/INFO]: [STDOUT]: CLIENT request state: EVALUATING_WORLD_REQUIREMENTS
+[10:41:01] [Client thread/INFO]: [STDOUT]: CLIENT enter state: EVALUATING_WORLD_REQUIREMENTS
+[10:41:01] [Client thread/INFO]: [STDOUT]: CLIENT request state: CREATING_NEW_WORLD
+[10:41:01] [Client thread/INFO]: [STDOUT]: CLIENT enter state: CREATING_NEW_WORLD
+[10:41:01] [Server thread/INFO]: Starting integrated minecraft server version 1.11.2
+[10:41:01] [Server thread/INFO]: Generating keypair
+[10:41:01] [Server thread/INFO]: Injecting existing block and item data into this server instance
+[10:41:01] [Server thread/INFO]: Applying holder lookups
+[10:41:01] [Server thread/INFO]: Holder lookups applied
+[10:41:02] [Server thread/INFO]: Loading dimension 0 (TEMP_0_59fed745-9986-4061-97f3-972386833d1a) (net.minecraft.server.integrated.IntegratedServer@777b8607)
+[10:41:02] [Server thread/INFO]: Loading dimension 1 (TEMP_0_59fed745-9986-4061-97f3-972386833d1a) (net.minecraft.server.integrated.IntegratedServer@777b8607)
+[10:41:02] [Server thread/INFO]: Loading dimension -1 (TEMP_0_59fed745-9986-4061-97f3-972386833d1a) (net.minecraft.server.integrated.IntegratedServer@777b8607)
+[10:41:02] [Server thread/INFO]: Preparing start region for level 0
+[10:41:03] [Server thread/INFO]: Preparing spawn area: 12%
+[10:41:04] [Server thread/INFO]: Preparing spawn area: 27%
+[10:41:05] [Server thread/INFO]: Preparing spawn area: 44%
+[10:41:06] [Server thread/INFO]: Preparing spawn area: 60%
+[10:41:07] [Server thread/INFO]: Preparing spawn area: 78%
+[10:41:08] [Server thread/INFO]: Preparing spawn area: 95%
+[10:41:08] [Server thread/INFO]: Changing view distance to 4, from 10
+[10:41:08] [Server thread/INFO]: [STDOUT]: SERVER request state: WAITING_FOR_MOD_READY
+[10:41:09] [Server thread/INFO]: [STDOUT]: CLIENT request state: WAITING_FOR_SERVER_READY
+[10:41:09] [Client thread/INFO]: [STDOUT]: CLIENT enter state: WAITING_FOR_SERVER_READY
+[10:41:09] [Server thread/INFO]: [STDOUT]: SERVER enter state: WAITING_FOR_MOD_READY
+[10:41:09] [Netty Local Client IO #0/INFO]: [STDOUT]: Transformed Name: net.minecraft.client.entity.EntityOtherPlayerMP
+[10:41:09] [Netty Local Client IO #0/INFO]: [STDOUT]: MALMO: Attempting to transform MinecraftServer
+[10:41:09] [Netty Local Client IO #0/INFO]: [STDOUT]: MALMO: Found EntityOtherPlayerMP, attempting to transform it
+[10:41:09] [Server thread/INFO]: [STDOUT]: SERVER request state: DORMANT
+[10:41:09] [Server thread/INFO]: [STDOUT]: SERVER enter state: DORMANT
+[10:41:09] [Server thread/INFO]: [STDOUT]: INCOMING MISSION: Received MissionInit directly through ServerStateMachine constructor.
+[10:41:09] [Server thread/INFO]: [STDOUT]: Mission received: MineRLTreechop-v0
+[10:41:09] [Server thread/INFO]: Received mission: §9MineRLTreechop-v0
+[10:41:09] [Server thread/INFO]: Source: §alocalhost
+[10:41:09] [Server thread/INFO]: [STDOUT]: SERVER request state: BUILDING_WORLD
+[10:41:09] [Server thread/INFO]: [STDOUT]: SERVER enter state: BUILDING_WORLD
+[10:41:09] [Server thread/INFO]: [STDOUT]: SERVER request state: WAITING_FOR_AGENTS_TO_ASSEMBLE
+[10:41:09] [Netty Local Client IO #0/INFO]: Server protocol version 2
+[10:41:09] [Netty Server IO #1/INFO]: Client protocol version 2
+[10:41:09] [Netty Server IO #1/INFO]: Client attempting to join with 5 mods : minecraft@1.11.2,FML@8.0.99.99,malmomod@0.37.0,forge@13.20.0.2228,mcp@9.19
+[10:41:09] [Netty Local Client IO #0/INFO]: [Netty Local Client IO #0] Client side modded connection established
+[10:41:09] [Server thread/INFO]: [Server thread] Server side modded connection established
+[10:41:09] [Server thread/INFO]: MineRLAgent[local:E:4347514d] logged in with entity id 191 at (-127.5, 71.0, 247.5)
+[10:41:09] [Server thread/INFO]: MineRLAgent joined the game
+[10:41:09] [Server thread/INFO]: [STDOUT]: SERVER enter state: WAITING_FOR_AGENTS_TO_ASSEMBLE
+[10:41:09] [Server thread/INFO]: [STDOUT]: Experiment requires: 
+[10:41:09] [Server thread/INFO]: [STDOUT]: >>>> MineRLAgent
+[10:41:10] [Client thread/INFO]: [STDOUT]: ***Telling server we are ready - MineRLAgent
+[10:41:10] [Client thread/INFO]: [STDOUT]: CLIENT request state: RUNNING
+[10:41:10] [Client thread/INFO]: [STDOUT]: CLIENT enter state: RUNNING
+[10:41:10] [Server thread/INFO]: [STDOUT]: SERVER request state: RUNNING
+[10:41:10] [Server thread/INFO]: [STDOUT]: SERVER enter state: RUNNING
+[10:41:10] [Client thread/INFO]: [STDOUT]: Resized the window
+[10:41:10] [Client thread/INFO]: [STDOUT]: Unpausing
+[10:41:10] [Client thread/INFO]: [CHAT] §l400...
+[10:41:11] [Client thread/INFO]: [CHAT] §l399...
+[10:41:11] [Client thread/INFO]: [CHAT] §l398...
+[10:41:12] [Client thread/INFO]: [CHAT] §l397...
+[10:41:12] [Client thread/INFO]: [CHAT] §l396...
+[10:41:12] [Client thread/INFO]: [CHAT] §l395...
+[10:41:13] [Client thread/INFO]: [CHAT] §l394...
+[10:41:13] [Client thread/INFO]: [CHAT] §l393...
+[10:41:13] [Client thread/INFO]: [CHAT] §l392...
+[10:41:13] [Client thread/INFO]: [CHAT] §l391...
+[10:41:14] [Client thread/INFO]: [CHAT] §l390...
+[10:41:14] [Client thread/INFO]: [CHAT] §l389...
+[10:41:14] [Client thread/INFO]: [CHAT] §l388...
+[10:41:15] [Client thread/INFO]: [CHAT] §l387...
+[10:41:15] [Client thread/INFO]: [CHAT] §l386...
+[10:41:15] [Client thread/INFO]: [CHAT] §l385...
+[10:41:15] [Client thread/INFO]: [CHAT] §l384...
+[10:41:16] [Client thread/INFO]: [CHAT] §l383...
+[10:41:16] [Client thread/INFO]: [CHAT] §l382...
+[10:41:16] [Client thread/INFO]: [CHAT] §l381...
+[10:41:18] [Client thread/INFO]: Stopping!
+[10:41:18] [Client thread/INFO]: [STDOUT]: Unpausing
+[10:41:18] [Server thread/INFO]: Saving and pausing game...
+[10:41:18] [Server thread/INFO]: Saving chunks for level 'TEMP_0_59fed745-9986-4061-97f3-972386833d1a'/Overworld
+[10:41:18] [Server thread/INFO]: Saving chunks for level 'TEMP_0_59fed745-9986-4061-97f3-972386833d1a'/Nether
+[10:41:18] [Server thread/INFO]: Saving chunks for level 'TEMP_0_59fed745-9986-4061-97f3-972386833d1a'/The End
+[10:41:18] [Server thread/INFO]: Stopping server
+[10:41:18] [Server thread/INFO]: Saving players
+[10:41:18] [Server thread/INFO]: Saving worlds
+[10:41:18] [Server thread/INFO]: Saving chunks for level 'TEMP_0_59fed745-9986-4061-97f3-972386833d1a'/Overworld
+[10:41:18] [Server thread/INFO]: Saving chunks for level 'TEMP_0_59fed745-9986-4061-97f3-972386833d1a'/Nether
+[10:41:18] [Server thread/INFO]: Saving chunks for level 'TEMP_0_59fed745-9986-4061-97f3-972386833d1a'/The End
+[10:41:18] [Server thread/INFO]: [STDOUT]: Unpausing
+[10:41:18] [Server thread/INFO]: [STDOUT]: Unpausing
+[10:41:18] [Server thread/INFO]: [STDOUT]: Unpausing
+[10:41:18] [Server thread/INFO]: Unloading dimension 0
+[10:41:18] [Server thread/INFO]: Unloading dimension -1
+[10:41:18] [Server thread/INFO]: Unloading dimension 1
+[10:41:18] [Client thread/INFO]: SoundSystem shutting down...
+[10:41:18] [Server thread/INFO]: Applying holder lookups
+[10:41:18] [Server thread/INFO]: Holder lookups applied
+[10:41:19] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+
