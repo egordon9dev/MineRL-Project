@@ -4390,3 +4390,587 @@
 2020-11-09 20:54:51,358:INFO: - Training done.
 2020-11-09 20:54:51,363:INFO: Evaluating...
 2020-11-09 20:54:51,447:INFO: Average reward: 4.00 +/- 0.00
+2020-11-13 09:53:22,179:INFO: Evaluating...
+2020-11-13 09:53:22,292:INFO: Average reward: 0.50 +/- 0.00
+2020-11-13 09:53:22,777:INFO: Evaluating...
+2020-11-13 09:53:22,792:INFO: Average reward: 3.80 +/- 0.00
+2020-11-13 09:53:23,299:INFO: Evaluating...
+2020-11-13 09:53:23,309:INFO: Average reward: 4.10 +/- 0.00
+2020-11-13 09:53:23,799:INFO: Evaluating...
+2020-11-13 09:53:23,810:INFO: Average reward: 3.90 +/- 0.00
+2020-11-13 09:53:24,312:INFO: Evaluating...
+2020-11-13 09:53:24,323:INFO: Average reward: 4.10 +/- 0.00
+2020-11-13 09:53:24,835:INFO: Evaluating...
+2020-11-13 09:53:24,845:INFO: Average reward: 4.10 +/- 0.00
+2020-11-13 09:53:25,349:INFO: Evaluating...
+2020-11-13 09:53:25,361:INFO: Average reward: 4.10 +/- 0.00
+2020-11-13 09:53:25,889:INFO: Evaluating...
+2020-11-13 09:53:25,899:INFO: Average reward: 4.10 +/- 0.00
+2020-11-13 09:53:26,401:INFO: Evaluating...
+2020-11-13 09:53:26,411:INFO: Average reward: 4.10 +/- 0.00
+2020-11-13 09:53:26,934:INFO: Evaluating...
+2020-11-13 09:53:26,945:INFO: Average reward: 4.10 +/- 0.00
+2020-11-13 09:53:27,435:INFO: - Training done.
+2020-11-13 09:53:27,436:INFO: Evaluating...
+2020-11-13 09:53:27,447:INFO: Average reward: 4.10 +/- 0.00
+2020-11-13 09:54:58,736:INFO: Starting Minecraft process: ['/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmp7lstk18e/Minecraft/launchClient.sh', '-port', '9015', '-env', '-runDir', '/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmp7lstk18e/Minecraft/run']
+2020-11-13 09:54:58,744:INFO: Starting process watcher for process 33963 @ localhost:9015
+2020-11-13 09:55:04,215:DEBUG: This mapping 'snapshot_20161220' was designed for MC 1.11! Use at your own peril.
+2020-11-13 09:55:04,452:DEBUG: #################################################
+2020-11-13 09:55:04,455:DEBUG:          ForgeGradle 2.2-SNAPSHOT-3966cea        
+2020-11-13 09:55:04,456:DEBUG:   https://github.com/MinecraftForge/ForgeGradle  
+2020-11-13 09:55:04,457:DEBUG: #################################################
+2020-11-13 09:55:04,459:DEBUG:                Powered by MCP unknown               
+2020-11-13 09:55:04,460:DEBUG:              http://modcoderpack.com             
+2020-11-13 09:55:04,461:DEBUG:          by: Searge, ProfMobius, Fesh0r,         
+2020-11-13 09:55:04,463:DEBUG:          R4wk, ZeuX, IngisKahn, bspkrs           
+2020-11-13 09:55:04,464:DEBUG: #################################################
+2020-11-13 09:55:04,470:DEBUG: Found AccessTransformer: malmomod_at.cfg
+2020-11-13 09:55:04,654:DEBUG: :deobfCompileDummyTask
+2020-11-13 09:55:04,656:DEBUG: :deobfProvidedDummyTask
+2020-11-13 09:55:04,708:DEBUG: :getVersionJson
+2020-11-13 09:55:04,871:DEBUG: :extractUserdev
+2020-11-13 09:55:05,085:DEBUG: :downloadClient SKIPPED
+2020-11-13 09:55:05,298:DEBUG: :downloadServer SKIPPED
+2020-11-13 09:55:06,348:DEBUG: :splitServerJar SKIPPED
+2020-11-13 09:55:06,939:DEBUG: :mergeJars SKIPPED
+2020-11-13 09:55:09,813:DEBUG: :applyBinaryPatches
+2020-11-13 09:55:09,814:DEBUG: :extractDependencyATs SKIPPED
+2020-11-13 09:55:09,993:DEBUG: :extractMcpData SKIPPED
+2020-11-13 09:55:10,135:DEBUG: :extractMcpMappings SKIPPED
+2020-11-13 09:55:10,440:DEBUG: :genSrgs SKIPPED
+2020-11-13 09:55:10,465:DEBUG: :deobfMcMCP
+2020-11-13 09:55:10,466:DEBUG: Applying SpecialSource...
+2020-11-13 09:55:16,521:DEBUG: Applying Exceptor...
+2020-11-13 09:55:19,005:DEBUG: Applying RuntimeInvisibleParameterAnnotations workaround...
+2020-11-13 09:55:20,290:DEBUG: :sourceApiJava
+2020-11-13 09:55:20,291:DEBUG: :compileApiJava UP-TO-DATE
+2020-11-13 09:55:20,292:DEBUG: :processApiResources UP-TO-DATE
+2020-11-13 09:55:20,293:DEBUG: :apiClasses UP-TO-DATE
+2020-11-13 09:55:20,293:DEBUG: :copyModToClient UP-TO-DATE
+2020-11-13 09:55:20,294:DEBUG: :copyModToServer UP-TO-DATE
+2020-11-13 09:55:20,397:DEBUG: :copySrg
+2020-11-13 09:55:20,400:DEBUG: :deleteSchemas
+2020-11-13 09:55:20,420:DEBUG: :copySchemas
+2020-11-13 09:55:21,578:DEBUG: :jaxb
+2020-11-13 09:55:21,823:DEBUG: :sourceMainJava
+2020-11-13 09:55:23,038:DEBUG: :compileJavawarning: [options] bootstrap class path not set in conjunction with -source 1.6
+2020-11-13 09:55:24,265:DEBUG: Note: SpongePowered MIXIN Annotation Processor Version=0.7.5
+2020-11-13 09:55:24,267:DEBUG: Note: ObfuscationServiceMCP supports type: "searge"
+2020-11-13 09:55:24,268:DEBUG: Note: ObfuscationServiceMCP supports type: "notch"
+2020-11-13 09:55:24,269:DEBUG: Note: Loading searge mappings from /Users/maxrudolph/.gradle/caches/minecraft/de/oceanlabs/mcp/mcp_snapshot/20161220/1.11.2/srgs/mcp-srg.srg
+2020-11-13 09:55:24,270:DEBUG: Note: Loading notch mappings from /Users/maxrudolph/.gradle/caches/minecraft/de/oceanlabs/mcp/mcp_snapshot/20161220/1.11.2/srgs/mcp-notch.srg
+2020-11-13 09:55:24,271:DEBUG: Note: Writing refmap to /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmp7lstk18e/Minecraft/build/tmp/compileJava/compileJava-refmap.json
+2020-11-13 09:55:24,272:DEBUG: Note: Writing refmap to /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmp7lstk18e/Minecraft/build/tmp/compileJava/compileJava-refmap.json
+2020-11-13 09:55:24,273:DEBUG: Note: Writing searge output SRGs to /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmp7lstk18e/Minecraft/build/tmp/compileJava/mcp-srg.srg
+2020-11-13 09:55:24,274:DEBUG: Note: Writing notch output SRGs to /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmp7lstk18e/Minecraft/build/tmp/compileJava/mcp-notch.srg
+2020-11-13 09:55:24,530:DEBUG: Note: Writing refmap to /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmp7lstk18e/Minecraft/build/tmp/compileJava/compileJava-refmap.json
+2020-11-13 09:55:24,531:DEBUG: Note: Writing refmap to /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmp7lstk18e/Minecraft/build/tmp/compileJava/compileJava-refmap.json
+2020-11-13 09:55:24,532:DEBUG: Note: Writing searge output SRGs to /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmp7lstk18e/Minecraft/build/tmp/compileJava/mcp-srg.srg
+2020-11-13 09:55:24,533:DEBUG: Note: Writing notch output SRGs to /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmp7lstk18e/Minecraft/build/tmp/compileJava/mcp-notch.srg
+2020-11-13 09:55:25,759:DEBUG: Note: Some input files use or override a deprecated API.
+2020-11-13 09:55:25,760:DEBUG: Note: Recompile with -Xlint:deprecation for details.
+2020-11-13 09:55:25,761:DEBUG: Note: Some input files use unchecked or unsafe operations.
+2020-11-13 09:55:25,762:DEBUG: Note: Recompile with -Xlint:unchecked for details.
+2020-11-13 09:55:25,868:DEBUG: 
+2020-11-13 09:55:26,074:DEBUG: :processResources
+2020-11-13 09:55:26,075:DEBUG: :classes
+2020-11-13 09:55:26,240:DEBUG: :jar
+2020-11-13 09:55:26,271:DEBUG: :extractNatives SKIPPED
+2020-11-13 09:55:26,375:DEBUG: :getAssetIndex UP-TO-DATE
+2020-11-13 09:55:27,446:DEBUG: :getAssets
+2020-11-13 09:55:27,454:DEBUG: :makeStart SKIPPED
+2020-11-13 09:55:27,886:DEBUG: :runClient
+2020-11-13 09:55:27,887:DEBUG: [09:55:27] [main/INFO]: Extra: []
+2020-11-13 09:55:27,908:DEBUG: [09:55:27] [main/INFO]: Found and added coremod: com.microsoft.Malmo.OverclockingPlugin
+2020-11-13 09:55:27,916:DEBUG: [09:55:27] [main/INFO]: Running with arguments: [--userProperties, {}, --assetsDir, /Users/maxrudolph/.gradle/caches/minecraft/assets, --assetIndex, 1.11, --accessToken{REDACTED}, --version, 1.11.2, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+2020-11-13 09:55:27,942:DEBUG: [09:55:27] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+2020-11-13 09:55:27,955:DEBUG: [09:55:27] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+2020-11-13 09:55:27,956:DEBUG: [09:55:27] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+2020-11-13 09:55:27,957:DEBUG: [09:55:27] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+2020-11-13 09:55:27,962:DEBUG: [09:55:27] [main/INFO]: Forge Mod Loader version 13.20.0.2228 for Minecraft 1.11.2 loading
+2020-11-13 09:55:27,963:DEBUG: [09:55:27] [main/INFO]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_272, running on Mac OS X:x86_64:10.15.7, installed at /Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre
+2020-11-13 09:55:27,970:DEBUG: [09:55:27] [main/INFO]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+2020-11-13 09:55:27,974:DEBUG: [09:55:27] [main/INFO]: Found a command line coremod : com.microsoft.Malmo.OverclockingPlugin
+2020-11-13 09:55:27,989:DEBUG: [09:55:27] [main/WARN]: The coremod com.microsoft.Malmo.OverclockingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+2020-11-13 09:55:28,102:DEBUG: [09:55:28] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.7.5 Source=file:/Users/maxrudolph/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.7.5-SNAPSHOT/c989878008c2c5ff1a7c6491c4103d8faa221d19/mixin-0.7.5-SNAPSHOT.jar Service=LaunchWrapper Env=CLIENT
+2020-11-13 09:55:28,173:DEBUG: [09:55:28] [main/INFO]: Compatibility level set to JAVA_8
+2020-11-13 09:55:28,176:DEBUG: [09:55:28] [main/INFO]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
+2020-11-13 09:55:28,177:DEBUG: [09:55:28] [main/INFO]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
+2020-11-13 09:55:28,178:DEBUG: [09:55:28] [main/INFO]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
+2020-11-13 09:55:28,178:DEBUG: [09:55:28] [main/INFO]: Injecting location in coremod com.microsoft.Malmo.OverclockingPlugin
+2020-11-13 09:55:28,179:DEBUG: [09:55:28] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+2020-11-13 09:55:28,179:DEBUG: [09:55:28] [main/INFO]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+2020-11-13 09:55:28,180:DEBUG: [09:55:28] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+2020-11-13 09:55:28,181:DEBUG: [09:55:28] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+2020-11-13 09:55:28,182:DEBUG: [09:55:28] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+2020-11-13 09:55:28,182:DEBUG: [09:55:28] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+2020-11-13 09:55:28,183:DEBUG: [09:55:28] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+2020-11-13 09:55:28,244:DEBUG: [09:55:28] [main/ERROR]: The binary patch set is missing. Either you are in a development environment, or things are not going to work!
+2020-11-13 09:55:28,616:DEBUG: [09:55:28] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
+2020-11-13 09:55:28,617:DEBUG: [09:55:28] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+2020-11-13 09:55:28,618:DEBUG: [09:55:28] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+2020-11-13 09:55:28,624:DEBUG: [09:55:28] [main/INFO]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+2020-11-13 09:55:28,630:DEBUG: [09:55:28] [main/INFO]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@75201592
+2020-11-13 09:55:28,634:DEBUG: [09:55:28] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+2020-11-13 09:55:28,943:DEBUG: [09:55:28] [main/INFO]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+2020-11-13 09:55:28,947:DEBUG: [09:55:28] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+2020-11-13 09:55:28,948:DEBUG: [09:55:28] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+2020-11-13 09:55:28,962:DEBUG: [09:55:28] [main/WARN]: Reference map 'mixins.replaymod.refmap.json' for mixins.overclocking.malmomod.json could not be read. If this is a development environment you can ignore this message
+2020-11-13 09:55:29,099:DEBUG: [09:55:29] [main/INFO]: [com.microsoft.Malmo.OverclockingClassTransformer:transform:58]: MALMO: Attempting to transform MinecraftServer
+2020-11-13 09:55:29,103:DEBUG: [09:55:29] [main/INFO]: [com.microsoft.Malmo.OverclockingClassTransformer:overclockRenderer:129]: MALMO: Found Minecraft, attempting to transform it
+2020-11-13 09:55:29,104:DEBUG: [09:55:29] [main/INFO]: [com.microsoft.Malmo.OverclockingClassTransformer:overclockRenderer:135]: MALMO: Found Minecraft.runGameLoop() method, attempting to transform it
+2020-11-13 09:55:29,105:DEBUG: [09:55:29] [main/INFO]: [com.microsoft.Malmo.OverclockingClassTransformer:overclockRenderer:150]: MALMO: Hooked into call to Minecraft.updateDisplay()
+2020-11-13 09:55:29,118:DEBUG: [09:55:29] [main/INFO]: A re-entrant transformer '$wrapper.com.microsoft.Malmo.OverclockingClassTransformer' was detected and will no longer process meta class data
+2020-11-13 09:55:29,216:DEBUG: [09:55:29] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+2020-11-13 09:55:29,257:DEBUG: [09:55:29] [main/INFO]: [com.microsoft.Malmo.OverclockingClassTransformer:transform:58]: MALMO: Attempting to transform MinecraftServer
+2020-11-13 09:55:29,259:DEBUG: [09:55:29] [main/INFO]: [com.microsoft.Malmo.OverclockingClassTransformer:overclockRenderer:129]: MALMO: Found Minecraft, attempting to transform it
+2020-11-13 09:55:29,260:DEBUG: [09:55:29] [main/INFO]: [com.microsoft.Malmo.OverclockingClassTransformer:overclockRenderer:135]: MALMO: Found Minecraft.runGameLoop() method, attempting to transform it
+2020-11-13 09:55:29,261:DEBUG: [09:55:29] [main/INFO]: [com.microsoft.Malmo.OverclockingClassTransformer:overclockRenderer:150]: MALMO: Hooked into call to Minecraft.updateDisplay()
+2020-11-13 09:55:29,545:DEBUG: [09:55:29] [main/INFO]: [com.microsoft.Malmo.OverclockingClassTransformer:transform:42]: Transformed Name: net.minecraft.client.entity.EntityPlayerSP
+2020-11-13 09:55:29,554:DEBUG: [09:55:29] [main/INFO]: [com.microsoft.Malmo.OverclockingClassTransformer:transform:42]: Transformed Name: net.minecraft.client.entity.AbstractClientPlayer
+2020-11-13 09:55:30,235:DEBUG: [09:55:30] [Client thread/INFO]: Setting user: Player105
+2020-11-13 09:55:32,553:DEBUG: [09:55:32] [Client thread/WARN]: Skipping bad option: lastServer:
+2020-11-13 09:55:32,556:DEBUG: [09:55:32] [Client thread/INFO]: LWJGL Version: 2.9.2
+2020-11-13 09:55:32,831:DEBUG: [09:55:32] [Client thread/INFO]: [STDOUT]: MALMO: Attempting to transform MinecraftServer
+2020-11-13 09:55:32,832:DEBUG: [09:55:32] [Client thread/INFO]: [STDOUT]: MALMO: Found GlStateManager, attempting to transform it
+2020-11-13 09:55:32,833:DEBUG: [09:55:32] [Client thread/INFO]: [STDOUT]: MALMO: Found GlStateManager.bindTexture() method, attempting to transform it
+2020-11-13 09:55:32,834:DEBUG: [09:55:32] [Client thread/INFO]: [STDOUT]: MALMO: Hooked into call to GlStateManager.bindTexture()
+2020-11-13 09:55:32,955:DEBUG: [09:55:32] [Client thread/INFO]: MinecraftForge v13.20.0.2228 Initialized
+2020-11-13 09:55:33,125:DEBUG: [09:55:33] [Client thread/INFO]: Replaced 232 ore recipes
+2020-11-13 09:55:33,265:DEBUG: [09:55:33] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+2020-11-13 09:55:33,266:DEBUG: [09:55:33] [Client thread/INFO]: Searching /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmp7lstk18e/Minecraft/run/mods for mods
+2020-11-13 09:55:34,408:DEBUG: [09:55:34] [Client thread/INFO]: Forge Mod Loader has identified 5 mods to load
+2020-11-13 09:55:34,537:DEBUG: [09:55:34] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, malmomod] at CLIENT
+2020-11-13 09:55:34,538:DEBUG: [09:55:34] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, malmomod] at SERVER
+2020-11-13 09:55:34,842:DEBUG: [09:55:34] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Microsoft Malmo Mod
+2020-11-13 09:55:34,903:DEBUG: [09:55:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MalmoMod in /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmp7lstk18e/Minecraft/build/libs/MalmoMod-0.37.0.jar
+2020-11-13 09:55:34,903:DEBUG: [09:55:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MalmoMod in /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmp7lstk18e/Minecraft/build/libs/MalmoMod-0.37.0.jar
+2020-11-13 09:55:34,905:DEBUG: [09:55:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MalmoMod in /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmp7lstk18e/Minecraft/build/libs/MalmoMod-0.37.0.jar
+2020-11-13 09:55:34,945:DEBUG: [09:55:34] [Client thread/INFO]: Processing ObjectHolder annotations
+2020-11-13 09:55:34,952:DEBUG: [09:55:34] [Client thread/INFO]: Found 444 ObjectHolder annotations
+2020-11-13 09:55:34,954:DEBUG: [09:55:34] [Client thread/INFO]: Identifying ItemStackHolder annotations
+2020-11-13 09:55:34,956:DEBUG: [09:55:34] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+2020-11-13 09:55:34,961:DEBUG: [09:55:34] [Client thread/INFO]: Applying holder lookups
+2020-11-13 09:55:34,964:DEBUG: [09:55:34] [Client thread/INFO]: Holder lookups applied
+2020-11-13 09:55:34,965:DEBUG: [09:55:34] [Client thread/INFO]: Applying holder lookups
+2020-11-13 09:55:34,966:DEBUG: [09:55:34] [Client thread/INFO]: Holder lookups applied
+2020-11-13 09:55:34,968:DEBUG: [09:55:34] [Client thread/INFO]: Applying holder lookups
+2020-11-13 09:55:34,969:DEBUG: [09:55:34] [Client thread/INFO]: Holder lookups applied
+2020-11-13 09:55:35,013:DEBUG: [09:55:35] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+2020-11-13 09:55:35,022:DEBUG: [09:55:35] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+2020-11-13 09:55:35,031:DEBUG: [09:55:35] [Client thread/INFO]: [STDOUT]: Testing schemas against internal version number: 0.37
+2020-11-13 09:55:35,333:DEBUG: [09:55:35] [Forge Version Check/INFO]: [forge] Found status: OUTDATED Target: 13.20.1.2386
+2020-11-13 09:55:35,338:DEBUG: [09:55:35] [Client thread/INFO]: [STDOUT]: [LOGTOPY] Performance directory not specified.
+2020-11-13 09:55:35,339:DEBUG: [09:55:35] [Client thread/INFO]: [STDOUT]: [ERROR] Seed specified was NONE. Expected a long (integer).
+2020-11-13 09:55:35,379:DEBUG: [09:55:35] [Client thread/INFO]: Applying holder lookups
+2020-11-13 09:55:35,380:DEBUG: [09:55:35] [Client thread/INFO]: Holder lookups applied
+2020-11-13 09:55:35,381:DEBUG: [09:55:35] [Client thread/INFO]: Injecting itemstacks
+2020-11-13 09:55:35,382:DEBUG: [09:55:35] [Client thread/INFO]: Itemstack injection complete
+2020-11-13 09:55:36,365:DEBUG: [09:55:36] [Sound Library Loader/INFO]: Starting up SoundSystem...
+2020-11-13 09:55:36,583:DEBUG: [09:55:36] [Thread-5/INFO]: Initializing LWJGL OpenAL
+2020-11-13 09:55:36,584:DEBUG: [09:55:36] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+2020-11-13 09:55:36,664:DEBUG: [09:55:36] [Thread-5/INFO]: OpenAL initialized.
+2020-11-13 09:55:36,977:DEBUG: [09:55:36] [Sound Library Loader/INFO]: Sound engine started
+2020-11-13 09:55:38,236:DEBUG: [09:55:38] [Client thread/INFO]: Max texture size: 16384
+2020-11-13 09:55:38,238:DEBUG: [09:55:38] [Client thread/INFO]: Created: 16x16 textures-atlas
+2020-11-13 09:55:38,623:DEBUG: [09:55:38] [Client thread/INFO]: [STDOUT]: CLIENT request state: WAITING_FOR_MOD_READY
+2020-11-13 09:55:38,668:DEBUG: [09:55:38] [Client thread/INFO]: Injecting itemstacks
+2020-11-13 09:55:38,669:DEBUG: [09:55:38] [Client thread/INFO]: Itemstack injection complete
+2020-11-13 09:55:38,696:DEBUG: [09:55:38] [Client thread/INFO]: Forge Mod Loader has successfully loaded 5 mods
+2020-11-13 09:55:38,697:DEBUG: [09:55:38] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Microsoft Malmo Mod
+2020-11-13 09:55:38,713:DEBUG: [09:55:38] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MalmoMod in /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmp7lstk18e/Minecraft/build/libs/MalmoMod-0.37.0.jar
+2020-11-13 09:55:38,715:DEBUG: [09:55:38] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MalmoMod in /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmp7lstk18e/Minecraft/build/libs/MalmoMod-0.37.0.jar
+2020-11-13 09:55:38,716:DEBUG: [09:55:38] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MalmoMod in /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmp7lstk18e/Minecraft/build/libs/MalmoMod-0.37.0.jar
+2020-11-13 09:55:39,575:DEBUG: [09:55:39] [Client thread/INFO]: SoundSystem shutting down...
+2020-11-13 09:55:39,809:DEBUG: [09:55:39] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+2020-11-13 09:55:39,810:DEBUG: [09:55:39] [Sound Library Loader/INFO]: Starting up SoundSystem...
+2020-11-13 09:55:40,015:DEBUG: [09:55:40] [Thread-7/INFO]: Initializing LWJGL OpenAL
+2020-11-13 09:55:40,015:DEBUG: [09:55:40] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+2020-11-13 09:55:40,020:DEBUG: [09:55:40] [Thread-7/INFO]: OpenAL initialized.
+2020-11-13 09:55:40,416:DEBUG: [09:55:40] [Sound Library Loader/INFO]: Sound engine started
+2020-11-13 09:55:41,113:DEBUG: [09:55:41] [Client thread/INFO]: Max texture size: 16384
+2020-11-13 09:55:41,227:DEBUG: [09:55:41] [Client thread/INFO]: Created: 512x512 textures-atlas
+2020-11-13 09:55:41,915:DEBUG: [09:55:41] [Client thread/WARN]: Skipping bad option: lastServer:
+2020-11-13 09:55:42,145:DEBUG: [09:55:42] [Client thread/INFO]: [STDOUT]: CLIENT enter state: WAITING_FOR_MOD_READY
+2020-11-13 09:55:42,150:DEBUG: [09:55:42] [Client thread/INFO]: [STDOUT]: ***** Start MalmoEnvServer on port 9015
+2020-11-13 09:55:42,159:DEBUG: [09:55:42] [Client thread/INFO]: [STDOUT]: CLIENT request state: DORMANT
+2020-11-13 09:55:42,186:DEBUG: [09:55:42] [Client thread/INFO]: [STDOUT]: CLIENT enter state: DORMANT
+2020-11-13 09:55:42,187:INFO: Minecraft process ready
+2020-11-13 09:55:42,190:INFO: Logging output of Minecraft to ./logs/mc_15.log
+2020-11-13 09:55:42,190:INFO: Logging output of Minecraft to ./logs/mc_15.log
+2020-11-13 09:55:43,080:DEBUG: [09:55:43] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+2020-11-13 09:55:43,080:DEBUG: [09:55:43] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+2020-11-13 09:57:06,545:INFO: Starting Minecraft process: ['/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/launchClient.sh', '-port', '9016', '-env', '-runDir', '/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/run']
+2020-11-13 09:57:06,545:INFO: Starting Minecraft process: ['/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/launchClient.sh', '-port', '9016', '-env', '-runDir', '/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/run']
+2020-11-13 09:57:06,552:INFO: Starting process watcher for process 33998 @ localhost:9016
+2020-11-13 09:57:06,552:INFO: Starting process watcher for process 33998 @ localhost:9016
+2020-11-13 09:57:10,385:DEBUG: This mapping 'snapshot_20161220' was designed for MC 1.11! Use at your own peril.
+2020-11-13 09:57:10,385:DEBUG: This mapping 'snapshot_20161220' was designed for MC 1.11! Use at your own peril.
+2020-11-13 09:57:10,586:DEBUG: #################################################
+2020-11-13 09:57:10,586:DEBUG: #################################################
+2020-11-13 09:57:10,587:DEBUG:          ForgeGradle 2.2-SNAPSHOT-3966cea        
+2020-11-13 09:57:10,587:DEBUG:          ForgeGradle 2.2-SNAPSHOT-3966cea        
+2020-11-13 09:57:10,589:DEBUG:   https://github.com/MinecraftForge/ForgeGradle  
+2020-11-13 09:57:10,589:DEBUG:   https://github.com/MinecraftForge/ForgeGradle  
+2020-11-13 09:57:10,590:DEBUG: #################################################
+2020-11-13 09:57:10,590:DEBUG: #################################################
+2020-11-13 09:57:10,592:DEBUG:                Powered by MCP unknown               
+2020-11-13 09:57:10,592:DEBUG:                Powered by MCP unknown               
+2020-11-13 09:57:10,593:DEBUG:              http://modcoderpack.com             
+2020-11-13 09:57:10,593:DEBUG:              http://modcoderpack.com             
+2020-11-13 09:57:10,594:DEBUG:          by: Searge, ProfMobius, Fesh0r,         
+2020-11-13 09:57:10,594:DEBUG:          by: Searge, ProfMobius, Fesh0r,         
+2020-11-13 09:57:10,596:DEBUG:          R4wk, ZeuX, IngisKahn, bspkrs           
+2020-11-13 09:57:10,596:DEBUG:          R4wk, ZeuX, IngisKahn, bspkrs           
+2020-11-13 09:57:10,597:DEBUG: #################################################
+2020-11-13 09:57:10,597:DEBUG: #################################################
+2020-11-13 09:57:10,603:DEBUG: Found AccessTransformer: malmomod_at.cfg
+2020-11-13 09:57:10,603:DEBUG: Found AccessTransformer: malmomod_at.cfg
+2020-11-13 09:57:10,778:DEBUG: :deobfCompileDummyTask
+2020-11-13 09:57:10,778:DEBUG: :deobfCompileDummyTask
+2020-11-13 09:57:10,780:DEBUG: :deobfProvidedDummyTask
+2020-11-13 09:57:10,780:DEBUG: :deobfProvidedDummyTask
+2020-11-13 09:57:10,832:DEBUG: :getVersionJson
+2020-11-13 09:57:10,832:DEBUG: :getVersionJson
+2020-11-13 09:57:11,006:DEBUG: :extractUserdev
+2020-11-13 09:57:11,006:DEBUG: :extractUserdev
+2020-11-13 09:57:11,188:DEBUG: :downloadClient SKIPPED
+2020-11-13 09:57:11,188:DEBUG: :downloadClient SKIPPED
+2020-11-13 09:57:11,392:DEBUG: :downloadServer SKIPPED
+2020-11-13 09:57:11,392:DEBUG: :downloadServer SKIPPED
+2020-11-13 09:57:12,442:DEBUG: :splitServerJar SKIPPED
+2020-11-13 09:57:12,442:DEBUG: :splitServerJar SKIPPED
+2020-11-13 09:57:13,025:DEBUG: :mergeJars SKIPPED
+2020-11-13 09:57:13,025:DEBUG: :mergeJars SKIPPED
+2020-11-13 09:57:15,938:DEBUG: :applyBinaryPatches
+2020-11-13 09:57:15,938:DEBUG: :applyBinaryPatches
+2020-11-13 09:57:15,939:DEBUG: :extractDependencyATs SKIPPED
+2020-11-13 09:57:15,939:DEBUG: :extractDependencyATs SKIPPED
+2020-11-13 09:57:16,061:DEBUG: :extractMcpData SKIPPED
+2020-11-13 09:57:16,061:DEBUG: :extractMcpData SKIPPED
+2020-11-13 09:57:16,181:DEBUG: :extractMcpMappings SKIPPED
+2020-11-13 09:57:16,181:DEBUG: :extractMcpMappings SKIPPED
+2020-11-13 09:57:16,477:DEBUG: :genSrgs SKIPPED
+2020-11-13 09:57:16,477:DEBUG: :genSrgs SKIPPED
+2020-11-13 09:57:16,502:DEBUG: :deobfMcMCP
+2020-11-13 09:57:16,502:DEBUG: :deobfMcMCP
+2020-11-13 09:57:16,503:DEBUG: Applying SpecialSource...
+2020-11-13 09:57:16,503:DEBUG: Applying SpecialSource...
+2020-11-13 09:57:23,319:DEBUG: Applying Exceptor...
+2020-11-13 09:57:23,319:DEBUG: Applying Exceptor...
+2020-11-13 09:57:26,069:DEBUG: Applying RuntimeInvisibleParameterAnnotations workaround...
+2020-11-13 09:57:26,069:DEBUG: Applying RuntimeInvisibleParameterAnnotations workaround...
+2020-11-13 09:57:27,342:DEBUG: :sourceApiJava
+2020-11-13 09:57:27,342:DEBUG: :sourceApiJava
+2020-11-13 09:57:27,343:DEBUG: :compileApiJava UP-TO-DATE
+2020-11-13 09:57:27,343:DEBUG: :compileApiJava UP-TO-DATE
+2020-11-13 09:57:27,344:DEBUG: :processApiResources UP-TO-DATE
+2020-11-13 09:57:27,344:DEBUG: :processApiResources UP-TO-DATE
+2020-11-13 09:57:27,345:DEBUG: :apiClasses UP-TO-DATE
+2020-11-13 09:57:27,345:DEBUG: :apiClasses UP-TO-DATE
+2020-11-13 09:57:27,345:DEBUG: :copyModToClient UP-TO-DATE
+2020-11-13 09:57:27,345:DEBUG: :copyModToClient UP-TO-DATE
+2020-11-13 09:57:27,346:DEBUG: :copyModToServer UP-TO-DATE
+2020-11-13 09:57:27,346:DEBUG: :copyModToServer UP-TO-DATE
+2020-11-13 09:57:27,459:DEBUG: :copySrg
+2020-11-13 09:57:27,459:DEBUG: :copySrg
+2020-11-13 09:57:27,463:DEBUG: :deleteSchemas
+2020-11-13 09:57:27,463:DEBUG: :deleteSchemas
+2020-11-13 09:57:27,497:DEBUG: :copySchemas
+2020-11-13 09:57:27,497:DEBUG: :copySchemas
+2020-11-13 09:57:28,668:DEBUG: :jaxb
+2020-11-13 09:57:28,668:DEBUG: :jaxb
+2020-11-13 09:57:28,898:DEBUG: :sourceMainJava
+2020-11-13 09:57:28,898:DEBUG: :sourceMainJava
+2020-11-13 09:57:29,368:DEBUG: :compileJavawarning: [options] bootstrap class path not set in conjunction with -source 1.6
+2020-11-13 09:57:29,368:DEBUG: :compileJavawarning: [options] bootstrap class path not set in conjunction with -source 1.6
+2020-11-13 09:57:30,496:DEBUG: Note: SpongePowered MIXIN Annotation Processor Version=0.7.5
+2020-11-13 09:57:30,496:DEBUG: Note: SpongePowered MIXIN Annotation Processor Version=0.7.5
+2020-11-13 09:57:30,496:DEBUG: Note: ObfuscationServiceMCP supports type: "searge"
+2020-11-13 09:57:30,496:DEBUG: Note: ObfuscationServiceMCP supports type: "searge"
+2020-11-13 09:57:30,497:DEBUG: Note: ObfuscationServiceMCP supports type: "notch"
+2020-11-13 09:57:30,497:DEBUG: Note: ObfuscationServiceMCP supports type: "notch"
+2020-11-13 09:57:30,498:DEBUG: Note: Loading searge mappings from /Users/maxrudolph/.gradle/caches/minecraft/de/oceanlabs/mcp/mcp_snapshot/20161220/1.11.2/srgs/mcp-srg.srg
+2020-11-13 09:57:30,498:DEBUG: Note: Loading searge mappings from /Users/maxrudolph/.gradle/caches/minecraft/de/oceanlabs/mcp/mcp_snapshot/20161220/1.11.2/srgs/mcp-srg.srg
+2020-11-13 09:57:30,499:DEBUG: Note: Loading notch mappings from /Users/maxrudolph/.gradle/caches/minecraft/de/oceanlabs/mcp/mcp_snapshot/20161220/1.11.2/srgs/mcp-notch.srg
+2020-11-13 09:57:30,499:DEBUG: Note: Loading notch mappings from /Users/maxrudolph/.gradle/caches/minecraft/de/oceanlabs/mcp/mcp_snapshot/20161220/1.11.2/srgs/mcp-notch.srg
+2020-11-13 09:57:30,500:DEBUG: Note: Writing refmap to /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/build/tmp/compileJava/compileJava-refmap.json
+2020-11-13 09:57:30,500:DEBUG: Note: Writing refmap to /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/build/tmp/compileJava/compileJava-refmap.json
+2020-11-13 09:57:30,501:DEBUG: Note: Writing refmap to /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/build/tmp/compileJava/compileJava-refmap.json
+2020-11-13 09:57:30,501:DEBUG: Note: Writing refmap to /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/build/tmp/compileJava/compileJava-refmap.json
+2020-11-13 09:57:30,502:DEBUG: Note: Writing searge output SRGs to /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/build/tmp/compileJava/mcp-srg.srg
+2020-11-13 09:57:30,502:DEBUG: Note: Writing searge output SRGs to /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/build/tmp/compileJava/mcp-srg.srg
+2020-11-13 09:57:30,504:DEBUG: Note: Writing notch output SRGs to /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/build/tmp/compileJava/mcp-notch.srg
+2020-11-13 09:57:30,504:DEBUG: Note: Writing notch output SRGs to /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/build/tmp/compileJava/mcp-notch.srg
+2020-11-13 09:57:30,683:DEBUG: Note: Writing refmap to /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/build/tmp/compileJava/compileJava-refmap.json
+2020-11-13 09:57:30,683:DEBUG: Note: Writing refmap to /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/build/tmp/compileJava/compileJava-refmap.json
+2020-11-13 09:57:30,684:DEBUG: Note: Writing refmap to /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/build/tmp/compileJava/compileJava-refmap.json
+2020-11-13 09:57:30,684:DEBUG: Note: Writing refmap to /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/build/tmp/compileJava/compileJava-refmap.json
+2020-11-13 09:57:30,685:DEBUG: Note: Writing searge output SRGs to /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/build/tmp/compileJava/mcp-srg.srg
+2020-11-13 09:57:30,685:DEBUG: Note: Writing searge output SRGs to /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/build/tmp/compileJava/mcp-srg.srg
+2020-11-13 09:57:30,686:DEBUG: Note: Writing notch output SRGs to /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/build/tmp/compileJava/mcp-notch.srg
+2020-11-13 09:57:30,686:DEBUG: Note: Writing notch output SRGs to /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/build/tmp/compileJava/mcp-notch.srg
+2020-11-13 09:57:32,074:DEBUG: Note: Some input files use or override a deprecated API.
+2020-11-13 09:57:32,074:DEBUG: Note: Some input files use or override a deprecated API.
+2020-11-13 09:57:32,075:DEBUG: Note: Recompile with -Xlint:deprecation for details.
+2020-11-13 09:57:32,075:DEBUG: Note: Recompile with -Xlint:deprecation for details.
+2020-11-13 09:57:32,076:DEBUG: Note: Some input files use unchecked or unsafe operations.
+2020-11-13 09:57:32,076:DEBUG: Note: Some input files use unchecked or unsafe operations.
+2020-11-13 09:57:32,077:DEBUG: Note: Recompile with -Xlint:unchecked for details.
+2020-11-13 09:57:32,077:DEBUG: Note: Recompile with -Xlint:unchecked for details.
+2020-11-13 09:57:32,210:DEBUG: 
+2020-11-13 09:57:32,210:DEBUG: 
+2020-11-13 09:57:32,406:DEBUG: :processResources
+2020-11-13 09:57:32,406:DEBUG: :processResources
+2020-11-13 09:57:32,407:DEBUG: :classes
+2020-11-13 09:57:32,407:DEBUG: :classes
+2020-11-13 09:57:32,559:DEBUG: :jar
+2020-11-13 09:57:32,559:DEBUG: :jar
+2020-11-13 09:57:32,581:DEBUG: :extractNatives SKIPPED
+2020-11-13 09:57:32,581:DEBUG: :extractNatives SKIPPED
+2020-11-13 09:57:32,680:DEBUG: :getAssetIndex UP-TO-DATE
+2020-11-13 09:57:32,680:DEBUG: :getAssetIndex UP-TO-DATE
+2020-11-13 09:57:33,838:DEBUG: :getAssets
+2020-11-13 09:57:33,838:DEBUG: :getAssets
+2020-11-13 09:57:33,843:DEBUG: :makeStart SKIPPED
+2020-11-13 09:57:33,843:DEBUG: :makeStart SKIPPED
+2020-11-13 09:57:34,256:DEBUG: :runClient
+2020-11-13 09:57:34,256:DEBUG: :runClient
+2020-11-13 09:57:34,257:DEBUG: [09:57:34] [main/INFO]: Extra: []
+2020-11-13 09:57:34,257:DEBUG: [09:57:34] [main/INFO]: Extra: []
+2020-11-13 09:57:34,280:DEBUG: [09:57:34] [main/INFO]: Found and added coremod: com.microsoft.Malmo.OverclockingPlugin
+2020-11-13 09:57:34,280:DEBUG: [09:57:34] [main/INFO]: Found and added coremod: com.microsoft.Malmo.OverclockingPlugin
+2020-11-13 09:57:34,290:DEBUG: [09:57:34] [main/INFO]: Running with arguments: [--userProperties, {}, --assetsDir, /Users/maxrudolph/.gradle/caches/minecraft/assets, --assetIndex, 1.11, --accessToken{REDACTED}, --version, 1.11.2, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+2020-11-13 09:57:34,290:DEBUG: [09:57:34] [main/INFO]: Running with arguments: [--userProperties, {}, --assetsDir, /Users/maxrudolph/.gradle/caches/minecraft/assets, --assetIndex, 1.11, --accessToken{REDACTED}, --version, 1.11.2, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+2020-11-13 09:57:34,313:DEBUG: [09:57:34] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+2020-11-13 09:57:34,313:DEBUG: [09:57:34] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+2020-11-13 09:57:34,320:DEBUG: [09:57:34] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+2020-11-13 09:57:34,320:DEBUG: [09:57:34] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+2020-11-13 09:57:34,320:DEBUG: [09:57:34] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+2020-11-13 09:57:34,320:DEBUG: [09:57:34] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+2020-11-13 09:57:34,322:DEBUG: [09:57:34] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+2020-11-13 09:57:34,322:DEBUG: [09:57:34] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+2020-11-13 09:57:34,325:DEBUG: [09:57:34] [main/INFO]: Forge Mod Loader version 13.20.0.2228 for Minecraft 1.11.2 loading
+2020-11-13 09:57:34,325:DEBUG: [09:57:34] [main/INFO]: Forge Mod Loader version 13.20.0.2228 for Minecraft 1.11.2 loading
+2020-11-13 09:57:34,327:DEBUG: [09:57:34] [main/INFO]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_272, running on Mac OS X:x86_64:10.15.7, installed at /Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre
+2020-11-13 09:57:34,327:DEBUG: [09:57:34] [main/INFO]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_272, running on Mac OS X:x86_64:10.15.7, installed at /Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre
+2020-11-13 09:57:34,333:DEBUG: [09:57:34] [main/INFO]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+2020-11-13 09:57:34,333:DEBUG: [09:57:34] [main/INFO]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+2020-11-13 09:57:34,337:DEBUG: [09:57:34] [main/INFO]: Found a command line coremod : com.microsoft.Malmo.OverclockingPlugin
+2020-11-13 09:57:34,337:DEBUG: [09:57:34] [main/INFO]: Found a command line coremod : com.microsoft.Malmo.OverclockingPlugin
+2020-11-13 09:57:34,352:DEBUG: [09:57:34] [main/WARN]: The coremod com.microsoft.Malmo.OverclockingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+2020-11-13 09:57:34,352:DEBUG: [09:57:34] [main/WARN]: The coremod com.microsoft.Malmo.OverclockingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+2020-11-13 09:57:34,469:DEBUG: [09:57:34] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.7.5 Source=file:/Users/maxrudolph/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.7.5-SNAPSHOT/c989878008c2c5ff1a7c6491c4103d8faa221d19/mixin-0.7.5-SNAPSHOT.jar Service=LaunchWrapper Env=CLIENT
+2020-11-13 09:57:34,469:DEBUG: [09:57:34] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.7.5 Source=file:/Users/maxrudolph/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.7.5-SNAPSHOT/c989878008c2c5ff1a7c6491c4103d8faa221d19/mixin-0.7.5-SNAPSHOT.jar Service=LaunchWrapper Env=CLIENT
+2020-11-13 09:57:34,551:DEBUG: [09:57:34] [main/INFO]: Compatibility level set to JAVA_8
+2020-11-13 09:57:34,551:DEBUG: [09:57:34] [main/INFO]: Compatibility level set to JAVA_8
+2020-11-13 09:57:34,555:DEBUG: [09:57:34] [main/INFO]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
+2020-11-13 09:57:34,555:DEBUG: [09:57:34] [main/INFO]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
+2020-11-13 09:57:34,556:DEBUG: [09:57:34] [main/INFO]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
+2020-11-13 09:57:34,556:DEBUG: [09:57:34] [main/INFO]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
+2020-11-13 09:57:34,557:DEBUG: [09:57:34] [main/INFO]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
+2020-11-13 09:57:34,557:DEBUG: [09:57:34] [main/INFO]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
+2020-11-13 09:57:34,558:DEBUG: [09:57:34] [main/INFO]: Injecting location in coremod com.microsoft.Malmo.OverclockingPlugin
+2020-11-13 09:57:34,558:DEBUG: [09:57:34] [main/INFO]: Injecting location in coremod com.microsoft.Malmo.OverclockingPlugin
+2020-11-13 09:57:34,559:DEBUG: [09:57:34] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+2020-11-13 09:57:34,559:DEBUG: [09:57:34] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+2020-11-13 09:57:34,560:DEBUG: [09:57:34] [main/INFO]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+2020-11-13 09:57:34,560:DEBUG: [09:57:34] [main/INFO]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+2020-11-13 09:57:34,563:DEBUG: [09:57:34] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+2020-11-13 09:57:34,563:DEBUG: [09:57:34] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+2020-11-13 09:57:34,564:DEBUG: [09:57:34] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+2020-11-13 09:57:34,564:DEBUG: [09:57:34] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+2020-11-13 09:57:34,565:DEBUG: [09:57:34] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+2020-11-13 09:57:34,565:DEBUG: [09:57:34] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+2020-11-13 09:57:34,566:DEBUG: [09:57:34] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+2020-11-13 09:57:34,566:DEBUG: [09:57:34] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+2020-11-13 09:57:34,567:DEBUG: [09:57:34] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+2020-11-13 09:57:34,567:DEBUG: [09:57:34] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+2020-11-13 09:57:34,629:DEBUG: [09:57:34] [main/ERROR]: The binary patch set is missing. Either you are in a development environment, or things are not going to work!
+2020-11-13 09:57:34,629:DEBUG: [09:57:34] [main/ERROR]: The binary patch set is missing. Either you are in a development environment, or things are not going to work!
+2020-11-13 09:57:35,043:DEBUG: [09:57:35] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
+2020-11-13 09:57:35,043:DEBUG: [09:57:35] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
+2020-11-13 09:57:35,044:DEBUG: [09:57:35] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+2020-11-13 09:57:35,044:DEBUG: [09:57:35] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+2020-11-13 09:57:35,045:DEBUG: [09:57:35] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+2020-11-13 09:57:35,045:DEBUG: [09:57:35] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+2020-11-13 09:57:35,050:DEBUG: [09:57:35] [main/INFO]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+2020-11-13 09:57:35,050:DEBUG: [09:57:35] [main/INFO]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+2020-11-13 09:57:35,056:DEBUG: [09:57:35] [main/INFO]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@75201592
+2020-11-13 09:57:35,056:DEBUG: [09:57:35] [main/INFO]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@75201592
+2020-11-13 09:57:35,061:DEBUG: [09:57:35] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+2020-11-13 09:57:35,061:DEBUG: [09:57:35] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+2020-11-13 09:57:35,363:DEBUG: [09:57:35] [main/INFO]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+2020-11-13 09:57:35,363:DEBUG: [09:57:35] [main/INFO]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+2020-11-13 09:57:35,367:DEBUG: [09:57:35] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+2020-11-13 09:57:35,367:DEBUG: [09:57:35] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+2020-11-13 09:57:35,368:DEBUG: [09:57:35] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+2020-11-13 09:57:35,368:DEBUG: [09:57:35] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+2020-11-13 09:57:35,378:DEBUG: [09:57:35] [main/WARN]: Reference map 'mixins.replaymod.refmap.json' for mixins.overclocking.malmomod.json could not be read. If this is a development environment you can ignore this message
+2020-11-13 09:57:35,378:DEBUG: [09:57:35] [main/WARN]: Reference map 'mixins.replaymod.refmap.json' for mixins.overclocking.malmomod.json could not be read. If this is a development environment you can ignore this message
+2020-11-13 09:57:35,492:DEBUG: [09:57:35] [main/INFO]: [com.microsoft.Malmo.OverclockingClassTransformer:transform:58]: MALMO: Attempting to transform MinecraftServer
+2020-11-13 09:57:35,492:DEBUG: [09:57:35] [main/INFO]: [com.microsoft.Malmo.OverclockingClassTransformer:transform:58]: MALMO: Attempting to transform MinecraftServer
+2020-11-13 09:57:35,496:DEBUG: [09:57:35] [main/INFO]: [com.microsoft.Malmo.OverclockingClassTransformer:overclockRenderer:129]: MALMO: Found Minecraft, attempting to transform it
+2020-11-13 09:57:35,496:DEBUG: [09:57:35] [main/INFO]: [com.microsoft.Malmo.OverclockingClassTransformer:overclockRenderer:129]: MALMO: Found Minecraft, attempting to transform it
+2020-11-13 09:57:35,497:DEBUG: [09:57:35] [main/INFO]: [com.microsoft.Malmo.OverclockingClassTransformer:overclockRenderer:135]: MALMO: Found Minecraft.runGameLoop() method, attempting to transform it
+2020-11-13 09:57:35,497:DEBUG: [09:57:35] [main/INFO]: [com.microsoft.Malmo.OverclockingClassTransformer:overclockRenderer:135]: MALMO: Found Minecraft.runGameLoop() method, attempting to transform it
+2020-11-13 09:57:35,500:DEBUG: [09:57:35] [main/INFO]: [com.microsoft.Malmo.OverclockingClassTransformer:overclockRenderer:150]: MALMO: Hooked into call to Minecraft.updateDisplay()
+2020-11-13 09:57:35,500:DEBUG: [09:57:35] [main/INFO]: [com.microsoft.Malmo.OverclockingClassTransformer:overclockRenderer:150]: MALMO: Hooked into call to Minecraft.updateDisplay()
+2020-11-13 09:57:35,514:DEBUG: [09:57:35] [main/INFO]: A re-entrant transformer '$wrapper.com.microsoft.Malmo.OverclockingClassTransformer' was detected and will no longer process meta class data
+2020-11-13 09:57:35,514:DEBUG: [09:57:35] [main/INFO]: A re-entrant transformer '$wrapper.com.microsoft.Malmo.OverclockingClassTransformer' was detected and will no longer process meta class data
+2020-11-13 09:57:35,623:DEBUG: [09:57:35] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+2020-11-13 09:57:35,623:DEBUG: [09:57:35] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+2020-11-13 09:57:35,662:DEBUG: [09:57:35] [main/INFO]: [com.microsoft.Malmo.OverclockingClassTransformer:transform:58]: MALMO: Attempting to transform MinecraftServer
+2020-11-13 09:57:35,662:DEBUG: [09:57:35] [main/INFO]: [com.microsoft.Malmo.OverclockingClassTransformer:transform:58]: MALMO: Attempting to transform MinecraftServer
+2020-11-13 09:57:35,663:DEBUG: [09:57:35] [main/INFO]: [com.microsoft.Malmo.OverclockingClassTransformer:overclockRenderer:129]: MALMO: Found Minecraft, attempting to transform it
+2020-11-13 09:57:35,663:DEBUG: [09:57:35] [main/INFO]: [com.microsoft.Malmo.OverclockingClassTransformer:overclockRenderer:129]: MALMO: Found Minecraft, attempting to transform it
+2020-11-13 09:57:35,665:DEBUG: [09:57:35] [main/INFO]: [com.microsoft.Malmo.OverclockingClassTransformer:overclockRenderer:135]: MALMO: Found Minecraft.runGameLoop() method, attempting to transform it
+2020-11-13 09:57:35,665:DEBUG: [09:57:35] [main/INFO]: [com.microsoft.Malmo.OverclockingClassTransformer:overclockRenderer:135]: MALMO: Found Minecraft.runGameLoop() method, attempting to transform it
+2020-11-13 09:57:35,666:DEBUG: [09:57:35] [main/INFO]: [com.microsoft.Malmo.OverclockingClassTransformer:overclockRenderer:150]: MALMO: Hooked into call to Minecraft.updateDisplay()
+2020-11-13 09:57:35,666:DEBUG: [09:57:35] [main/INFO]: [com.microsoft.Malmo.OverclockingClassTransformer:overclockRenderer:150]: MALMO: Hooked into call to Minecraft.updateDisplay()
+2020-11-13 09:57:35,976:DEBUG: [09:57:35] [main/INFO]: [com.microsoft.Malmo.OverclockingClassTransformer:transform:42]: Transformed Name: net.minecraft.client.entity.EntityPlayerSP
+2020-11-13 09:57:35,976:DEBUG: [09:57:35] [main/INFO]: [com.microsoft.Malmo.OverclockingClassTransformer:transform:42]: Transformed Name: net.minecraft.client.entity.EntityPlayerSP
+2020-11-13 09:57:35,985:DEBUG: [09:57:35] [main/INFO]: [com.microsoft.Malmo.OverclockingClassTransformer:transform:42]: Transformed Name: net.minecraft.client.entity.AbstractClientPlayer
+2020-11-13 09:57:35,985:DEBUG: [09:57:35] [main/INFO]: [com.microsoft.Malmo.OverclockingClassTransformer:transform:42]: Transformed Name: net.minecraft.client.entity.AbstractClientPlayer
+2020-11-13 09:57:36,579:DEBUG: [09:57:36] [Client thread/INFO]: Setting user: Player437
+2020-11-13 09:57:36,579:DEBUG: [09:57:36] [Client thread/INFO]: Setting user: Player437
+2020-11-13 09:57:39,501:DEBUG: [09:57:39] [Client thread/WARN]: Skipping bad option: lastServer:
+2020-11-13 09:57:39,501:DEBUG: [09:57:39] [Client thread/WARN]: Skipping bad option: lastServer:
+2020-11-13 09:57:39,504:DEBUG: [09:57:39] [Client thread/INFO]: LWJGL Version: 2.9.2
+2020-11-13 09:57:39,504:DEBUG: [09:57:39] [Client thread/INFO]: LWJGL Version: 2.9.2
+2020-11-13 09:57:39,830:DEBUG: [09:57:39] [Client thread/INFO]: [STDOUT]: MALMO: Attempting to transform MinecraftServer
+2020-11-13 09:57:39,830:DEBUG: [09:57:39] [Client thread/INFO]: [STDOUT]: MALMO: Attempting to transform MinecraftServer
+2020-11-13 09:57:39,831:DEBUG: [09:57:39] [Client thread/INFO]: [STDOUT]: MALMO: Found GlStateManager, attempting to transform it
+2020-11-13 09:57:39,831:DEBUG: [09:57:39] [Client thread/INFO]: [STDOUT]: MALMO: Found GlStateManager, attempting to transform it
+2020-11-13 09:57:39,833:DEBUG: [09:57:39] [Client thread/INFO]: [STDOUT]: MALMO: Found GlStateManager.bindTexture() method, attempting to transform it
+2020-11-13 09:57:39,833:DEBUG: [09:57:39] [Client thread/INFO]: [STDOUT]: MALMO: Found GlStateManager.bindTexture() method, attempting to transform it
+2020-11-13 09:57:39,834:DEBUG: [09:57:39] [Client thread/INFO]: [STDOUT]: MALMO: Hooked into call to GlStateManager.bindTexture()
+2020-11-13 09:57:39,834:DEBUG: [09:57:39] [Client thread/INFO]: [STDOUT]: MALMO: Hooked into call to GlStateManager.bindTexture()
+2020-11-13 09:57:39,981:DEBUG: [09:57:39] [Client thread/INFO]: MinecraftForge v13.20.0.2228 Initialized
+2020-11-13 09:57:39,981:DEBUG: [09:57:39] [Client thread/INFO]: MinecraftForge v13.20.0.2228 Initialized
+2020-11-13 09:57:40,159:DEBUG: [09:57:40] [Client thread/INFO]: Replaced 232 ore recipes
+2020-11-13 09:57:40,159:DEBUG: [09:57:40] [Client thread/INFO]: Replaced 232 ore recipes
+2020-11-13 09:57:40,323:DEBUG: [09:57:40] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+2020-11-13 09:57:40,323:DEBUG: [09:57:40] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+2020-11-13 09:57:40,324:DEBUG: [09:57:40] [Client thread/INFO]: Searching /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/run/mods for mods
+2020-11-13 09:57:40,324:DEBUG: [09:57:40] [Client thread/INFO]: Searching /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/run/mods for mods
+2020-11-13 09:57:41,467:DEBUG: [09:57:41] [Client thread/INFO]: Forge Mod Loader has identified 5 mods to load
+2020-11-13 09:57:41,467:DEBUG: [09:57:41] [Client thread/INFO]: Forge Mod Loader has identified 5 mods to load
+2020-11-13 09:57:41,593:DEBUG: [09:57:41] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, malmomod] at CLIENT
+2020-11-13 09:57:41,593:DEBUG: [09:57:41] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, malmomod] at CLIENT
+2020-11-13 09:57:41,594:DEBUG: [09:57:41] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, malmomod] at SERVER
+2020-11-13 09:57:41,594:DEBUG: [09:57:41] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, malmomod] at SERVER
+2020-11-13 09:57:41,854:DEBUG: [09:57:41] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Microsoft Malmo Mod
+2020-11-13 09:57:41,854:DEBUG: [09:57:41] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Microsoft Malmo Mod
+2020-11-13 09:57:41,879:DEBUG: [09:57:41] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MalmoMod in /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/build/libs/MalmoMod-0.37.0.jar
+2020-11-13 09:57:41,879:DEBUG: [09:57:41] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MalmoMod in /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/build/libs/MalmoMod-0.37.0.jar
+2020-11-13 09:57:41,880:DEBUG: [09:57:41] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MalmoMod in /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/build/libs/MalmoMod-0.37.0.jar
+2020-11-13 09:57:41,880:DEBUG: [09:57:41] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MalmoMod in /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/build/libs/MalmoMod-0.37.0.jar
+2020-11-13 09:57:41,881:DEBUG: [09:57:41] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MalmoMod in /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/build/libs/MalmoMod-0.37.0.jar
+2020-11-13 09:57:41,881:DEBUG: [09:57:41] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MalmoMod in /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/build/libs/MalmoMod-0.37.0.jar
+2020-11-13 09:57:41,910:DEBUG: [09:57:41] [Client thread/INFO]: Processing ObjectHolder annotations
+2020-11-13 09:57:41,910:DEBUG: [09:57:41] [Client thread/INFO]: Processing ObjectHolder annotations
+2020-11-13 09:57:41,917:DEBUG: [09:57:41] [Client thread/INFO]: Found 444 ObjectHolder annotations
+2020-11-13 09:57:41,917:DEBUG: [09:57:41] [Client thread/INFO]: Found 444 ObjectHolder annotations
+2020-11-13 09:57:41,921:DEBUG: [09:57:41] [Client thread/INFO]: Identifying ItemStackHolder annotations
+2020-11-13 09:57:41,921:DEBUG: [09:57:41] [Client thread/INFO]: Identifying ItemStackHolder annotations
+2020-11-13 09:57:41,922:DEBUG: [09:57:41] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+2020-11-13 09:57:41,922:DEBUG: [09:57:41] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+2020-11-13 09:57:41,929:DEBUG: [09:57:41] [Client thread/INFO]: Applying holder lookups
+2020-11-13 09:57:41,929:DEBUG: [09:57:41] [Client thread/INFO]: Applying holder lookups
+2020-11-13 09:57:41,931:DEBUG: [09:57:41] [Client thread/INFO]: Holder lookups applied
+2020-11-13 09:57:41,931:DEBUG: [09:57:41] [Client thread/INFO]: Holder lookups applied
+2020-11-13 09:57:41,933:DEBUG: [09:57:41] [Client thread/INFO]: Applying holder lookups
+2020-11-13 09:57:41,933:DEBUG: [09:57:41] [Client thread/INFO]: Applying holder lookups
+2020-11-13 09:57:41,934:DEBUG: [09:57:41] [Client thread/INFO]: Holder lookups applied
+2020-11-13 09:57:41,934:DEBUG: [09:57:41] [Client thread/INFO]: Holder lookups applied
+2020-11-13 09:57:41,935:DEBUG: [09:57:41] [Client thread/INFO]: Applying holder lookups
+2020-11-13 09:57:41,935:DEBUG: [09:57:41] [Client thread/INFO]: Applying holder lookups
+2020-11-13 09:57:41,936:DEBUG: [09:57:41] [Client thread/INFO]: Holder lookups applied
+2020-11-13 09:57:41,936:DEBUG: [09:57:41] [Client thread/INFO]: Holder lookups applied
+2020-11-13 09:57:41,976:DEBUG: [09:57:41] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+2020-11-13 09:57:41,976:DEBUG: [09:57:41] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+2020-11-13 09:57:41,993:DEBUG: [09:57:41] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+2020-11-13 09:57:41,993:DEBUG: [09:57:41] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+2020-11-13 09:57:41,994:DEBUG: [09:57:41] [Client thread/INFO]: [STDOUT]: Testing schemas against internal version number: 0.37
+2020-11-13 09:57:41,994:DEBUG: [09:57:41] [Client thread/INFO]: [STDOUT]: Testing schemas against internal version number: 0.37
+2020-11-13 09:57:42,344:DEBUG: [09:57:42] [Forge Version Check/INFO]: [forge] Found status: OUTDATED Target: 13.20.1.2386
+2020-11-13 09:57:42,344:DEBUG: [09:57:42] [Forge Version Check/INFO]: [forge] Found status: OUTDATED Target: 13.20.1.2386
+2020-11-13 09:57:42,350:DEBUG: [09:57:42] [Client thread/INFO]: [STDOUT]: [LOGTOPY] Performance directory not specified.
+2020-11-13 09:57:42,350:DEBUG: [09:57:42] [Client thread/INFO]: [STDOUT]: [LOGTOPY] Performance directory not specified.
+2020-11-13 09:57:42,351:DEBUG: [09:57:42] [Client thread/INFO]: [STDOUT]: [ERROR] Seed specified was NONE. Expected a long (integer).
+2020-11-13 09:57:42,351:DEBUG: [09:57:42] [Client thread/INFO]: [STDOUT]: [ERROR] Seed specified was NONE. Expected a long (integer).
+2020-11-13 09:57:42,411:DEBUG: [09:57:42] [Client thread/INFO]: Applying holder lookups
+2020-11-13 09:57:42,411:DEBUG: [09:57:42] [Client thread/INFO]: Applying holder lookups
+2020-11-13 09:57:42,412:DEBUG: [09:57:42] [Client thread/INFO]: Holder lookups applied
+2020-11-13 09:57:42,412:DEBUG: [09:57:42] [Client thread/INFO]: Holder lookups applied
+2020-11-13 09:57:42,413:DEBUG: [09:57:42] [Client thread/INFO]: Injecting itemstacks
+2020-11-13 09:57:42,413:DEBUG: [09:57:42] [Client thread/INFO]: Injecting itemstacks
+2020-11-13 09:57:42,414:DEBUG: [09:57:42] [Client thread/INFO]: Itemstack injection complete
+2020-11-13 09:57:42,414:DEBUG: [09:57:42] [Client thread/INFO]: Itemstack injection complete
+2020-11-13 09:57:43,446:DEBUG: [09:57:43] [Sound Library Loader/INFO]: Starting up SoundSystem...
+2020-11-13 09:57:43,446:DEBUG: [09:57:43] [Sound Library Loader/INFO]: Starting up SoundSystem...
+2020-11-13 09:57:43,669:DEBUG: [09:57:43] [Thread-5/INFO]: Initializing LWJGL OpenAL
+2020-11-13 09:57:43,669:DEBUG: [09:57:43] [Thread-5/INFO]: Initializing LWJGL OpenAL
+2020-11-13 09:57:43,671:DEBUG: [09:57:43] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+2020-11-13 09:57:43,671:DEBUG: [09:57:43] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+2020-11-13 09:57:43,751:DEBUG: [09:57:43] [Thread-5/INFO]: OpenAL initialized.
+2020-11-13 09:57:43,751:DEBUG: [09:57:43] [Thread-5/INFO]: OpenAL initialized.
+2020-11-13 09:57:44,060:DEBUG: [09:57:44] [Sound Library Loader/INFO]: Sound engine started
+2020-11-13 09:57:44,060:DEBUG: [09:57:44] [Sound Library Loader/INFO]: Sound engine started
+2020-11-13 09:57:45,558:DEBUG: [09:57:45] [Client thread/INFO]: Max texture size: 16384
+2020-11-13 09:57:45,558:DEBUG: [09:57:45] [Client thread/INFO]: Max texture size: 16384
+2020-11-13 09:57:45,561:DEBUG: [09:57:45] [Client thread/INFO]: Created: 16x16 textures-atlas
+2020-11-13 09:57:45,561:DEBUG: [09:57:45] [Client thread/INFO]: Created: 16x16 textures-atlas
+2020-11-13 09:57:45,988:DEBUG: [09:57:45] [Client thread/INFO]: [STDOUT]: CLIENT request state: WAITING_FOR_MOD_READY
+2020-11-13 09:57:45,988:DEBUG: [09:57:45] [Client thread/INFO]: [STDOUT]: CLIENT request state: WAITING_FOR_MOD_READY
+2020-11-13 09:57:46,035:DEBUG: [09:57:46] [Client thread/INFO]: Injecting itemstacks
+2020-11-13 09:57:46,035:DEBUG: [09:57:46] [Client thread/INFO]: Injecting itemstacks
+2020-11-13 09:57:46,036:DEBUG: [09:57:46] [Client thread/INFO]: Itemstack injection complete
+2020-11-13 09:57:46,036:DEBUG: [09:57:46] [Client thread/INFO]: Itemstack injection complete
+2020-11-13 09:57:46,065:DEBUG: [09:57:46] [Client thread/INFO]: Forge Mod Loader has successfully loaded 5 mods
+2020-11-13 09:57:46,065:DEBUG: [09:57:46] [Client thread/INFO]: Forge Mod Loader has successfully loaded 5 mods
+2020-11-13 09:57:46,066:DEBUG: [09:57:46] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Microsoft Malmo Mod
+2020-11-13 09:57:46,066:DEBUG: [09:57:46] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Microsoft Malmo Mod
+2020-11-13 09:57:46,084:DEBUG: [09:57:46] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MalmoMod in /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/build/libs/MalmoMod-0.37.0.jar
+2020-11-13 09:57:46,084:DEBUG: [09:57:46] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MalmoMod in /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/build/libs/MalmoMod-0.37.0.jar
+2020-11-13 09:57:46,085:DEBUG: [09:57:46] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MalmoMod in /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/build/libs/MalmoMod-0.37.0.jar
+2020-11-13 09:57:46,085:DEBUG: [09:57:46] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MalmoMod in /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/build/libs/MalmoMod-0.37.0.jar
+2020-11-13 09:57:46,086:DEBUG: [09:57:46] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MalmoMod in /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/build/libs/MalmoMod-0.37.0.jar
+2020-11-13 09:57:46,086:DEBUG: [09:57:46] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MalmoMod in /private/var/folders/_5/9n4k6nj50nb48gfy7_x3brnr0000gn/T/tmpjwt17x8w/Minecraft/build/libs/MalmoMod-0.37.0.jar
+2020-11-13 09:57:46,961:DEBUG: [09:57:46] [Client thread/INFO]: SoundSystem shutting down...
+2020-11-13 09:57:46,961:DEBUG: [09:57:46] [Client thread/INFO]: SoundSystem shutting down...
+2020-11-13 09:57:47,199:DEBUG: [09:57:47] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+2020-11-13 09:57:47,199:DEBUG: [09:57:47] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+2020-11-13 09:57:47,200:DEBUG: [09:57:47] [Sound Library Loader/INFO]: Starting up SoundSystem...
+2020-11-13 09:57:47,200:DEBUG: [09:57:47] [Sound Library Loader/INFO]: Starting up SoundSystem...
+2020-11-13 09:57:47,404:DEBUG: [09:57:47] [Thread-7/INFO]: Initializing LWJGL OpenAL
+2020-11-13 09:57:47,404:DEBUG: [09:57:47] [Thread-7/INFO]: Initializing LWJGL OpenAL
+2020-11-13 09:57:47,405:DEBUG: [09:57:47] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+2020-11-13 09:57:47,405:DEBUG: [09:57:47] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+2020-11-13 09:57:47,410:DEBUG: [09:57:47] [Thread-7/INFO]: OpenAL initialized.
+2020-11-13 09:57:47,410:DEBUG: [09:57:47] [Thread-7/INFO]: OpenAL initialized.
+2020-11-13 09:57:47,809:DEBUG: [09:57:47] [Sound Library Loader/INFO]: Sound engine started
+2020-11-13 09:57:47,809:DEBUG: [09:57:47] [Sound Library Loader/INFO]: Sound engine started
+2020-11-13 09:57:48,612:DEBUG: [09:57:48] [Client thread/INFO]: Max texture size: 16384
+2020-11-13 09:57:48,612:DEBUG: [09:57:48] [Client thread/INFO]: Max texture size: 16384
+2020-11-13 09:57:48,720:DEBUG: [09:57:48] [Client thread/INFO]: Created: 512x512 textures-atlas
+2020-11-13 09:57:48,720:DEBUG: [09:57:48] [Client thread/INFO]: Created: 512x512 textures-atlas
+2020-11-13 09:57:49,530:DEBUG: [09:57:49] [Client thread/WARN]: Skipping bad option: lastServer:
+2020-11-13 09:57:49,530:DEBUG: [09:57:49] [Client thread/WARN]: Skipping bad option: lastServer:
+2020-11-13 09:57:49,768:DEBUG: [09:57:49] [Client thread/INFO]: [STDOUT]: CLIENT enter state: WAITING_FOR_MOD_READY
+2020-11-13 09:57:49,768:DEBUG: [09:57:49] [Client thread/INFO]: [STDOUT]: CLIENT enter state: WAITING_FOR_MOD_READY
+2020-11-13 09:57:49,774:DEBUG: [09:57:49] [Client thread/INFO]: [STDOUT]: ***** Start MalmoEnvServer on port 9016
+2020-11-13 09:57:49,774:DEBUG: [09:57:49] [Client thread/INFO]: [STDOUT]: ***** Start MalmoEnvServer on port 9016
+2020-11-13 09:57:49,783:DEBUG: [09:57:49] [Client thread/INFO]: [STDOUT]: CLIENT request state: DORMANT
+2020-11-13 09:57:49,783:DEBUG: [09:57:49] [Client thread/INFO]: [STDOUT]: CLIENT request state: DORMANT
+2020-11-13 09:57:49,815:DEBUG: [09:57:49] [Client thread/INFO]: [STDOUT]: CLIENT enter state: DORMANT
+2020-11-13 09:57:49,815:DEBUG: [09:57:49] [Client thread/INFO]: [STDOUT]: CLIENT enter state: DORMANT
+2020-11-13 09:57:49,816:INFO: Minecraft process ready
+2020-11-13 09:57:49,816:INFO: Minecraft process ready
+2020-11-13 09:57:49,818:INFO: Logging output of Minecraft to ./logs/mc_16.log
+2020-11-13 09:57:49,818:INFO: Logging output of Minecraft to ./logs/mc_16.log
+2020-11-13 09:57:51,480:DEBUG: [09:57:51] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+2020-11-13 09:57:51,480:DEBUG: [09:57:51] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+2020-11-13 09:57:51,480:DEBUG: [09:57:51] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id

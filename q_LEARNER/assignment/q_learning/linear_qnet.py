@@ -21,7 +21,7 @@ class LinearQNet(nn.Module):
         #     number of stacked observations in state: config.state_history
         #####################################################################
 
-        self.fc_layer = nn.Linear(np.prod(env.observation_space.shape) * config.state_history, env.action_space.n)
+        self.fc_layer = nn.Linear(np.prod(env.observation_space.shape), env.action_space.n) # * config.state_history
 
         #####################################################################
         #                             END OF YOUR CODE                      #
