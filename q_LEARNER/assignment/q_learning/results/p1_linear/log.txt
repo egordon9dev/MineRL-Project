@@ -4974,3 +4974,57 @@
 2020-11-13 09:57:51,480:DEBUG: [09:57:51] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
 2020-11-13 09:57:51,480:DEBUG: [09:57:51] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
 2020-11-13 09:57:51,480:DEBUG: [09:57:51] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+2020-11-13 11:22:30,280:DEBUG: [11:22:30] [Client thread/INFO]: Stopping!
+2020-11-13 11:22:30,280:DEBUG: [11:22:30] [Client thread/INFO]: Stopping!
+2020-11-13 11:22:30,280:DEBUG: [11:22:30] [Client thread/INFO]: Stopping!
+2020-11-13 11:22:30,325:DEBUG: [11:22:30] [Client thread/INFO]: SoundSystem shutting down...
+2020-11-13 11:22:30,325:DEBUG: [11:22:30] [Client thread/INFO]: SoundSystem shutting down...
+2020-11-13 11:22:30,325:DEBUG: [11:22:30] [Client thread/INFO]: SoundSystem shutting down...
+2020-11-13 11:22:30,401:DEBUG: [11:22:30] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+2020-11-13 11:22:30,401:DEBUG: [11:22:30] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+2020-11-13 11:22:30,401:DEBUG: [11:22:30] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+2020-11-13 11:22:31,185:DEBUG: 
+2020-11-13 11:22:31,185:DEBUG: 
+2020-11-13 11:22:31,185:DEBUG: 
+2020-11-13 11:22:31,194:DEBUG: BUILD SUCCESSFUL
+2020-11-13 11:22:31,194:DEBUG: BUILD SUCCESSFUL
+2020-11-13 11:22:31,194:DEBUG: BUILD SUCCESSFUL
+2020-11-13 11:22:31,195:DEBUG: 
+2020-11-13 11:22:31,195:DEBUG: 
+2020-11-13 11:22:31,195:DEBUG: 
+2020-11-13 11:22:31,195:DEBUG: Total time: 1 hrs 25 mins 24.552 secs
+2020-11-13 11:22:31,195:DEBUG: Total time: 1 hrs 25 mins 24.552 secs
+2020-11-13 11:22:31,195:DEBUG: Total time: 1 hrs 25 mins 24.552 secs
+2020-11-13 11:22:35,002:DEBUG: [11:22:34] [Client thread/INFO]: Stopping!
+2020-11-13 11:22:35,002:DEBUG: [11:22:34] [Client thread/INFO]: Stopping!
+2020-11-13 11:22:35,002:DEBUG: [11:22:34] [Client thread/INFO]: Stopping!
+2020-11-13 11:22:35,005:DEBUG: [11:22:34] [Client thread/INFO]: SoundSystem shutting down...
+2020-11-13 11:22:35,005:DEBUG: [11:22:34] [Client thread/INFO]: SoundSystem shutting down...
+2020-11-13 11:22:35,005:DEBUG: [11:22:34] [Client thread/INFO]: SoundSystem shutting down...
+2020-11-13 11:22:35,132:DEBUG: [11:22:35] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+2020-11-13 11:22:35,132:DEBUG: [11:22:35] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+2020-11-13 11:22:35,132:DEBUG: [11:22:35] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+2020-11-13 11:22:35,816:DEBUG: 
+2020-11-13 11:22:35,816:DEBUG: 
+2020-11-13 11:22:35,816:DEBUG: 
+2020-11-13 11:22:35,823:DEBUG: BUILD SUCCESSFUL
+2020-11-13 11:22:35,823:DEBUG: BUILD SUCCESSFUL
+2020-11-13 11:22:35,823:DEBUG: BUILD SUCCESSFUL
+2020-11-13 11:22:35,824:DEBUG: 
+2020-11-13 11:22:35,824:DEBUG: 
+2020-11-13 11:22:35,824:DEBUG: 
+2020-11-13 11:22:35,825:DEBUG: Total time: 1 hrs 27 mins 36.772 secs
+2020-11-13 11:22:35,825:DEBUG: Total time: 1 hrs 27 mins 36.772 secs
+2020-11-13 11:22:35,825:DEBUG: Total time: 1 hrs 27 mins 36.772 secs
+2020-11-13 11:26:01,256:ERROR: Attempted to send kill command to minecraft process and failed.
+2020-11-13 11:26:01,256:ERROR: Attempted to send kill command to minecraft process and failed.
+2020-11-13 11:26:01,256:ERROR: Attempted to send kill command to minecraft process and failed.
+2020-11-13 11:26:01,274:INFO: Minecraft process psutil.Process(pid=33998, status='terminated', exitcode=0, started='09:57:06') terminated with exit code 0
+2020-11-13 11:26:01,274:INFO: Minecraft process psutil.Process(pid=33998, status='terminated', exitcode=0, started='09:57:06') terminated with exit code 0
+2020-11-13 11:26:01,274:INFO: Minecraft process psutil.Process(pid=33998, status='terminated', exitcode=0, started='09:57:06') terminated with exit code 0
+2020-11-13 11:26:02,432:ERROR: Attempted to send kill command to minecraft process and failed.
+2020-11-13 11:26:02,432:ERROR: Attempted to send kill command to minecraft process and failed.
+2020-11-13 11:26:02,432:ERROR: Attempted to send kill command to minecraft process and failed.
+2020-11-13 11:26:02,439:INFO: Minecraft process psutil.Process(pid=33963, status='terminated', exitcode=0, started='09:54:58') terminated with exit code 0
+2020-11-13 11:26:02,439:INFO: Minecraft process psutil.Process(pid=33963, status='terminated', exitcode=0, started='09:54:58') terminated with exit code 0
+2020-11-13 11:26:02,439:INFO: Minecraft process psutil.Process(pid=33963, status='terminated', exitcode=0, started='09:54:58') terminated with exit code 0

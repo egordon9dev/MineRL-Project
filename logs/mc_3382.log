@@ -1,0 +1,48 @@
+[13:39:57] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[13:40:06] [EnvServerSocketHandler/INFO]: [STDOUT]: Received from localhost:<MissionInit xmlns="http://ProjectMalmo.microsoft.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SchemaVersion="" PlatformVersion="0.37.0">
+                                <Mission>
+    <About>
+        <Summary>MineRLTreechop-v0</Summary>
+    </About>
+
+    <ModSettings>
+         <MsPerTick>50</MsPerTick>
+          <!--<PrioritiseOffscreenRendering>true</PrioritiseOffscreenRendering>-->
+    </ModSettings>
+
+
+  <ServerSection>
+
+    <ServerInitialConditions>
+      <Time>
+        <!--<StartTime>0</StartTime>-->
+        <AllowPassageOfTime>false</AllowPassageOfTime>
+      </Time>
+            
+      <AllowSpawning>true</AllowSpawning>
+    </ServerInitialConditions>
+
+    <ServerHandlers>
+      <DefaultWorldGenerator forceReset="true" generatorOptions="{&quot;coordinateScale&quot;:684.412,&quot;heightScale&quot;:684.412,&quot;lowerLimitScale&quot;:512.0,&quot;upperLimitScale&quot;:512.0,&quot;depthNoiseScaleX&quot;:200.0,&quot;depthNoiseScaleZ&quot;:200.0,&quot;depthNoiseScaleExponent&quot;:0.5,&quot;mainN
+[13:40:07] [EnvServerSocketHandler/INFO]: [STDOUT]: REPLYING WITH: MALMOOK
+[13:40:07] [Client thread/INFO]: [STDOUT]: Mission received: MineRLTreechop-v0
+[13:40:07] [Client thread/INFO]: [STDOUT]: CLIENT request state: CREATING_HANDLERS
+[13:40:07] [Client thread/INFO]: [STDOUT]: CLIENT enter state: CREATING_HANDLERS
+[13:40:07] [Client thread/INFO]: [STDOUT]: Starting command server.
+[13:40:07] [Thread-10/INFO]: [STDOUT]: INFO: ->com(0) Listening for messages on port 10882
+[13:40:07] [Client thread/INFO]: [STDOUT]: CLIENT request state: EVALUATING_WORLD_REQUIREMENTS
+[13:40:07] [Client thread/INFO]: [STDOUT]: CLIENT enter state: EVALUATING_WORLD_REQUIREMENTS
+[13:40:07] [Client thread/INFO]: [STDOUT]: CLIENT request state: CREATING_NEW_WORLD
+[13:40:07] [Client thread/INFO]: [STDOUT]: CLIENT enter state: CREATING_NEW_WORLD
+[13:40:08] [Server thread/INFO]: Starting integrated minecraft server version 1.11.2
+[13:40:08] [Server thread/INFO]: Generating keypair
+[13:40:08] [Server thread/INFO]: Injecting existing block and item data into this server instance
+[13:40:08] [Server thread/INFO]: Applying holder lookups
+[13:40:08] [Server thread/INFO]: Holder lookups applied
+[13:40:08] [Server thread/INFO]: Loading dimension 0 (TEMP_0_0597ca80-b7f4-401a-aab8-368e4e220615) (net.minecraft.server.integrated.IntegratedServer@473191e7)
+[13:40:08] [Server thread/INFO]: Loading dimension 1 (TEMP_0_0597ca80-b7f4-401a-aab8-368e4e220615) (net.minecraft.server.integrated.IntegratedServer@473191e7)
+[13:40:08] [Server thread/INFO]: Loading dimension -1 (TEMP_0_0597ca80-b7f4-401a-aab8-368e4e220615) (net.minecraft.server.integrated.IntegratedServer@473191e7)
+[13:40:08] [Server thread/INFO]: Preparing start region for level 0
+[13:40:09] [Server thread/INFO]: Preparing spawn area: 15%
+[13:40:10] [Server thread/INFO]: Preparing spawn area: 32%
+[13:40:11] [Server thread/INFO]: Preparing spawn area: 48%
