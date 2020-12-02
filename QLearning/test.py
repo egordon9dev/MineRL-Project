@@ -25,14 +25,14 @@ EPS_END = 0.05
 EPS_DECAY = 50000
 TARGET_UPDATE = 10
 LR = 0.005
-test_time = False
+test_time = True
 
 n_steps = 8
 n_actions = env.action_space.n
 img_height = 64
 img_width = 64
 policy_net = None
-network_path = "target_net.pt"
+network_path = "pretrained_target_net.pt"
 if os.path.exists(network_path):
     policy_net = torch.load(network_path)
     print("successfully loaded existing network from file: " + network_path)
