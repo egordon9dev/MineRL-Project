@@ -1,7 +1,5 @@
 # MineRL Project -- Deep Reinforcement Learning in Minecraft
 We tested the DQN and PPO algorithms. The goal of the agent is to navigate the video-game environment. The agent must walk to a specified position given the camera data as input. The actions are simple movements: forward, backward, left, right, pan, etc.
-![](https://github.com/egordon9dev/MineRL-Project/blob/master/trainDQN.png)
-![](https://github.com/egordon9dev/MineRL-Project/blob/master/conv.png)
 # QLearning
 Deep Q-Learning implementation for the MineRLNavigateDense-v0 environment.
 
@@ -20,6 +18,9 @@ gym 0.10.8
 Pillow 5.3.0
 minerl 0.3.0
 ```
+
+![](https://github.com/egordon9dev/MineRL-Project/blob/master/trainDQN.png)
+![](https://github.com/egordon9dev/MineRL-Project/blob/master/conv.png)
 
 # PPO-PyTorch
 Minimal PyTorch implementation of Proximal Policy Optimization with clipped objective for MineRLNavigateDense-v0 environment.
